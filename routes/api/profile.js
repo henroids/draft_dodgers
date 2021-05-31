@@ -354,4 +354,25 @@ router.get('/github/:username', (req, res) => {
   }
 })
 
+// @route    get api/profile/player
+// @desc     testing player
+// @access   public
+
+router.get('/player', async (req, res) => {
+  try {
+    const player = await Player.create({ name: 'Patrick Bateman' });
+    if(!player) {
+      return res.status(400).json({ msg: 'Error creating player' });
+    }
+    res.json({msg: 'Successful Player Creation'})
+  } catch (err) {
+    console.error(err.message);
+    if(err.kind == 'ObjectId') {
+      return res.status(400).json({ msg: 'Error creating player'});
+    }
+    // res.status(500).send('Server Error');
+    res.status(500).send(err.message);
+  }
+});
+
 module.exports = router;
