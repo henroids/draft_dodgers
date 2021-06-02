@@ -1,0 +1,4328 @@
+[
+  {
+    "Pos": "CB",
+    "Style": "Man Coverage",
+    "Player_Line": "CB Branden Valentine 6-2 188 R Ole Miss [Man Coverage] [-1] [#] 83",
+    "Rating": "83",
+    "School": "Ole Miss"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Pocket",
+    "Player_Line": "QB Matt Ballard 6-4 221 R Ohio State [Pocket] [+2] 83",
+    "Rating": "83",
+    "School": "Ohio State"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Deontray Clay 6-0 226 R Rice [Target] [0/C] 83",
+    "Rating": "83",
+    "School": "Rice"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Samuel Barfield 6-1 224 R Oklahoma State [Target] [0] 83",
+    "Rating": "83",
+    "School": "Oklahoma State"
+  },
+  {
+    "Pos": "C",
+    "Style": "Run Blocking",
+    "Player_Line": "C Charlie Becker 6-2 304 R Texas Tech [Run Blocking] [0] 82",
+    "Rating": "82",
+    "School": "Texas Tech"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB/FS Akiem Pryor 6-1 176 R Miami (FL) [Zone Coverage] [0] 82",
+    "Rating": "82",
+    "School": "Miami (FL)"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB Brendan Scherer 6-3 262 R Kansas State [Mike] [+1] 82",
+    "Rating": "82",
+    "School": "Kansas State"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Traditional",
+    "Player_Line": "LS Philip Crowe 6-2 234 R Connecticut [Traditional] [0] 82",
+    "Rating": "82",
+    "School": "Connecticut"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Josh Pennington 6-7 319 R Miami (FL) [Pass Blocking] [0] 82",
+    "Rating": "82",
+    "School": "Miami (FL)"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Matthew Jones 6-3 272 R Troy [Pass Blocking] [0] 82",
+    "Rating": "82",
+    "School": "Troy"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Christian Reese 6-0 219 R Western Michigan [Coverage] [+2/C] 82",
+    "Rating": "82",
+    "School": "Western Michigan"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Blitz",
+    "Player_Line": "OLB Zachary McHale 6-4 244 R Baylor [Blitz] [+1/C] 82",
+    "Rating": "82",
+    "School": "Baylor"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT A'Shawn McNair 6-5 262 R Rice [Pass Blocking] [0] 82",
+    "Rating": "82",
+    "School": "Rice"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT Robert Davies 6-2 320 R Stanford [Pass Blocking] [+1] 82",
+    "Rating": "82",
+    "School": "Stanford"
+  },
+  {
+    "Pos": "P",
+    "Style": "Power",
+    "Player_Line": "P Mike Rankin 6-0 183 R Boston College [Power] [0] 82",
+    "Rating": "82",
+    "School": "Boston College"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Scrambling",
+    "Player_Line": "QB Byron Suggs 6-0 195 R Central Michigan [Scrambling] [+1] 82",
+    "Rating": "82",
+    "School": "Central Michigan"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Hybrid",
+    "Player_Line": "QB Isaac Tyson 6-4 215 R Michigan State [Hybrid] [+1/C] 82",
+    "Rating": "82",
+    "School": "Michigan State"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Power",
+    "Player_Line": "RB Gray Stewart 6-1 220 R North Texas [Power] [0] 82",
+    "Rating": "82",
+    "School": "North Texas"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Power",
+    "Player_Line": "RB Julius Wesley Jr. 5-6 193 R Ohio State [Power] [-1] 82",
+    "Rating": "82",
+    "School": "Ohio State"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Speed",
+    "Player_Line": "RB Nick Rowland 6-0 213 R Michigan [Speed] [-1] [#] 82",
+    "Rating": "82",
+    "School": "Michigan"
+  },
+  {
+    "Pos": "SS",
+    "Style": "Zone Coverage",
+    "Player_Line": "SS Blake Barrett 6-1 174 R South Carolina [Zone Coverage] [+2/C] 82",
+    "Rating": "82",
+    "School": "South Carolina"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Receiving",
+    "Player_Line": "TE Carlos Avery 6-5 193 R Texas [Receiving] [0] 82",
+    "Rating": "82",
+    "School": "Texas"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR DeMaurice Slone 5-10 177 R Iowa [Speed] [+1] 82",
+    "Rating": "82",
+    "School": "Iowa"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB A.J. Gilchrist 6-1 184 R Fresno State [Zone Coverage] [-2] 81",
+    "Rating": "81",
+    "School": "Fresno State"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Man Coverage",
+    "Player_Line": "CB Isaiah Jenkins Jr. 6-0 169 R Central Michigan [Man Coverage] [-2] 81",
+    "Rating": "81",
+    "School": "Central Michigan"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB Josh Russell 6-0 185 R Boston College [Zone Coverage] [+1] 81",
+    "Rating": "81",
+    "School": "Boston College"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB Reshard Hinton 5-11 182 R Grambling [Zone Coverage] [-1] [#] 81",
+    "Rating": "81",
+    "School": "Grambling"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Contain",
+    "Player_Line": "DE Anthony Tolbert 6-5 255 R Clemson [Contain] [0] 81",
+    "Rating": "81",
+    "School": "Clemson"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Blitz",
+    "Player_Line": "DE Anthony Walton 6-5 249 R Florida State [Blitz] [0] 81",
+    "Rating": "81",
+    "School": "Florida State"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Contain",
+    "Player_Line": "DE Derrick Dukes 6-5 261 R Air Force [Contain] [-2] 81",
+    "Rating": "81",
+    "School": "Air Force"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Contain",
+    "Player_Line": "DE Landon Crowder 6-0 242 R Purdue [Contain] [0/C] 81",
+    "Rating": "81",
+    "School": "Purdue"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Amir Pryor 6-6 312 R Oklahoma State [2-Gap] [0/C] 81",
+    "Rating": "81",
+    "School": "Oklahoma State"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Grant Barclay 6-1 318 R Miami (FL) [2-Gap] [0/C] 81",
+    "Rating": "81",
+    "School": "Miami (FL)"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Morris Jackson 6-7 302 R Miami (OH) [2-Gap] [0] 81",
+    "Rating": "81",
+    "School": "Miami (OH)"
+  },
+  {
+    "Pos": "FB",
+    "Style": "Run Blocking",
+    "Player_Line": "FB Ethan Mills 6-0 202 R Kentucky [Run Blocking] [0] 81",
+    "Rating": "81",
+    "School": "Kentucky"
+  },
+  {
+    "Pos": "FB",
+    "Style": "Run Blocking",
+    "Player_Line": "FB Jacob Randolph 5-9 248 R South Alabama [Run Blocking] [0] 81",
+    "Rating": "81",
+    "School": "South Alabama"
+  },
+  {
+    "Pos": "FS",
+    "Style": "Zone Coverage",
+    "Player_Line": "FS Matthew Salter 6-1 194 R Tulane [Zone Coverage] [0] 81",
+    "Rating": "81",
+    "School": "Tulane"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB Kahiau Afamasaga 6-4 248 R Ole Miss [Mike] [0/C] 81",
+    "Rating": "81",
+    "School": "Ole Miss"
+  },
+  {
+    "Pos": "K",
+    "Style": "Power",
+    "Player_Line": "K Eric McCurdy 6-2 186 R Auburn [Power] [0] 81",
+    "Rating": "81",
+    "School": "Auburn"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Aaron Hunt 6-5 310 R USF [Run Blocking] [0] 81",
+    "Rating": "81",
+    "School": "USF"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Adrian Delarosa 6-4 300 R Tennessee [Run Blocking] [0] 81",
+    "Rating": "81",
+    "School": "Tennessee"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Isaac Bachman 6-3 321 R Vanderbilt [Pass Blocking] [0] 81",
+    "Rating": "81",
+    "School": "Vanderbilt"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Marcelo Moon 6-2 285 R Rice [Pass Blocking] [0] 81",
+    "Rating": "81",
+    "School": "Rice"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Sebastian Dobbins 6-4 273 R BYU [Pass Blocking] [0/C] 81",
+    "Rating": "81",
+    "School": "BYU"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Thomas Knight 6-3 297 R Colorado State [Run Blocking] [0] 81",
+    "Rating": "81",
+    "School": "Colorado State"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Will Groves 6-6 316 R Washington State [Run Blocking] [0] 81",
+    "Rating": "81",
+    "School": "Washington State"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Blake Burns 6-0 241 R TCU [Coverage] [+1/C] 81",
+    "Rating": "81",
+    "School": "TCU"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Donald Longo 6-3 237 R Illinois [Coverage] [0] 81",
+    "Rating": "81",
+    "School": "Illinois"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Jermaine Dockery 6-3 234 R Duke [Coverage] [+2/C] 81",
+    "Rating": "81",
+    "School": "Duke"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Blitz",
+    "Player_Line": "OLB Tyler Matthews 6-3 222 R Maryland [Blitz] [+1] 81",
+    "Rating": "81",
+    "School": "Maryland"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Armani Bello 6-7 316 R Kansas [Run Blocking] [0] 81",
+    "Rating": "81",
+    "School": "Kansas"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT Cyrus Swartz 6-7 324 R Duke [Pass Blocking] [0] 81",
+    "Rating": "81",
+    "School": "Duke"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Dylan Baker 6-1 293 R Air Force [Run Blocking] [+2] 81",
+    "Rating": "81",
+    "School": "Air Force"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Isaac Decker 6-3 286 R Toledo [Run Blocking] [0/C] 81",
+    "Rating": "81",
+    "School": "Toledo"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT Mohamed Mosley 6-2 334 R Cincinnati [Pass Blocking] [-1] 81",
+    "Rating": "81",
+    "School": "Cincinnati"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Sam Duvall 6-4 295 R UAB [Run Blocking]\ufeff [0] 81",
+    "Rating": "81",
+    "School": "UAB"
+  },
+  {
+    "Pos": "P",
+    "Style": "Power",
+    "Player_Line": "P Lukas Parr 6-3 190 R Coastal Carolina [Power] [0] 81",
+    "Rating": "81",
+    "School": "Coastal Carolina"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Pocket",
+    "Player_Line": "QB Zeke Burkett 5-10 222 R Georgia [Pocket] [+2/C] 81",
+    "Rating": "81",
+    "School": "Georgia"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Speed",
+    "Player_Line": "RB Damani Laws 5-9 189 R Ball State [Speed] [-1] 81",
+    "Rating": "81",
+    "School": "Ball State"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Speed",
+    "Player_Line": "RB Israel Coleman 5-8 174 R Auburn [Speed] [-1] 81",
+    "Rating": "81",
+    "School": "Auburn"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Power",
+    "Player_Line": "RB Julian Childs 5-7 219 R Temple [Power] [+1] 81",
+    "Rating": "81",
+    "School": "Temple"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Speed",
+    "Player_Line": "RB Kofi McCullough 5-9 177 R Iowa State [Speed] [-1] 81",
+    "Rating": "81",
+    "School": "Iowa State"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Blocking",
+    "Player_Line": "TE Kisona Vailopa 6-3 239 R Clemson [Blocking] [0] 81",
+    "Rating": "81",
+    "School": "Clemson"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Receiving",
+    "Player_Line": "TE Mark Pereira 6-4 214 R UCF [Receiving] [-1] [#] 81",
+    "Rating": "81",
+    "School": "UCF"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Blocking",
+    "Player_Line": "TE Rafael Cotter 6-0 224 R Navy [Blocking] [0] 81",
+    "Rating": "81",
+    "School": "Navy"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Andrew Harrison 6-0 230 R Clemson [Target] [0] 81",
+    "Rating": "81",
+    "School": "Clemson"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Jordan Scott 5-10 166 R Arizona State [Speed] [-1] 81",
+    "Rating": "81",
+    "School": "Arizona State"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Landon Scott 6-4 169 R Florida [Speed] [+2] 81",
+    "Rating": "81",
+    "School": "Florida"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Marc Ponder 6-3 161 R USC [Speed] [0] 81",
+    "Rating": "81",
+    "School": "USC"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Nick Rawls 6-5 217 R Mississippi State [Target] [0] 81",
+    "Rating": "81",
+    "School": "Mississippi State"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Tyler Sterling 6-3 234 R Michigan [Target] [-1] 81",
+    "Rating": "81",
+    "School": "Michigan"
+  },
+  {
+    "Pos": "C",
+    "Style": "Pass Blocking",
+    "Player_Line": "C Beckett Day 6-4 276 R Rutgers [Pass Blocking] [0/C] 80",
+    "Rating": "80",
+    "School": "Rutgers"
+  },
+  {
+    "Pos": "C",
+    "Style": "Run Blocking",
+    "Player_Line": "C Gregory Dubois 6-1 240 R New Mexico [Run Blocking] [0] 80",
+    "Rating": "80",
+    "School": "New Mexico"
+  },
+  {
+    "Pos": "C",
+    "Style": "Pass Blocking",
+    "Player_Line": "C Marc Whalen 6-4 240 R Utah State [Pass Blocking] [0/C] 80",
+    "Rating": "80",
+    "School": "Utah State"
+  },
+  {
+    "Pos": "C",
+    "Style": "Pass Blocking",
+    "Player_Line": "C Vic Troutman 6-1 288 R Toledo [Pass Blocking] [-2] 80",
+    "Rating": "80",
+    "School": "Toledo"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB Brian Bonds 5-11 203 R Hawaii [Zone Coverage] [0] 80",
+    "Rating": "80",
+    "School": "Hawaii"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB D.J. Chavis 5-10 190 R Alabama [Zone Coverage] [+2] 80",
+    "Rating": "80",
+    "School": "Alabama"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Blitz",
+    "Player_Line": "DE Ra'aed Williamson 6-6 249 R Kennesaw State [Blitz] [0/C] 80",
+    "Rating": "80",
+    "School": "Kennesaw State"
+  },
+  {
+    "Pos": "DT",
+    "Style": "1-Gap",
+    "Player_Line": "DT David Kaiser 6-5 271 R Oklahoma [1-Gap] [0] 80",
+    "Rating": "80",
+    "School": "Oklahoma"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Erik McElmore 6-4 289 R Penn State [2-Gap] [0] 80",
+    "Rating": "80",
+    "School": "Penn State"
+  },
+  {
+    "Pos": "DT",
+    "Style": "1-Gap",
+    "Player_Line": "DT Felix Jennings 6-0 298 R Western Kentucky [1-Gap] [-2] 80",
+    "Rating": "80",
+    "School": "Western Kentucky"
+  },
+  {
+    "Pos": "DT",
+    "Style": "1-Gap",
+    "Player_Line": "DT Gavin Best 6-1 292 R Texas A&M [1-Gap] [0/C] 80",
+    "Rating": "80",
+    "School": "Texas A&M"
+  },
+  {
+    "Pos": "DT",
+    "Style": "1-Gap",
+    "Player_Line": "DT Jacob Colbert 6-3 281 R Iowa [1-Gap] [-1] 80",
+    "Rating": "80",
+    "School": "Iowa"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Sila Tuputala 6-4 333 R UCLA [2-Gap] [0] 80",
+    "Rating": "80",
+    "School": "UCLA"
+  },
+  {
+    "Pos": "FS",
+    "Style": "Zone Coverage",
+    "Player_Line": "FS Brody Grimes 6-2 218 R Bowling Green [Zone Coverage] [0] 80",
+    "Rating": "80",
+    "School": "Bowling Green"
+  },
+  {
+    "Pos": "FS",
+    "Style": "Zone Coverage",
+    "Player_Line": "FS Daniel Joiner 6-1 219 R Auburn [Zone Coverage] [+1] 80",
+    "Rating": "80",
+    "School": "Auburn"
+  },
+  {
+    "Pos": "FS",
+    "Style": "Zone Coverage",
+    "Player_Line": "FS Gabriel Sanders Jr. 6-0 193 R TCU [Zone Coverage] [0] 80",
+    "Rating": "80",
+    "School": "TCU"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Will",
+    "Player_Line": "ILB Anthony Marshall 6-1 215 R Rutgers [Will] [0] 80",
+    "Rating": "80",
+    "School": "Rutgers"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB Vinnie Masterson 6-3 256 R Purdue [Mike] [0] 80",
+    "Rating": "80",
+    "School": "Purdue"
+  },
+  {
+    "Pos": "K",
+    "Style": "Accuracy",
+    "Player_Line": "K Sebastian White 6-1 187 R Air Force [Accuracy] [0] 80",
+    "Rating": "80",
+    "School": "Air Force"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Traditional",
+    "Player_Line": "LS Bryce Holt 6-0 263 R Washington State [Traditional] [0] 80",
+    "Rating": "80",
+    "School": "Washington State"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Specialized",
+    "Player_Line": "LS Pete Babcock 6-0 247 R Louisiana-Monroe [Specialized] [0] 80",
+    "Rating": "80",
+    "School": "Louisiana-Monroe"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Jude Scherer 6-2 324 R Maryland [Run Blocking] [0] [+] 80",
+    "Rating": "80",
+    "School": "Maryland"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Mayer Ludwig 6-2 300 R Georgia Tech [Run Blocking] [-1] [+] 80",
+    "Rating": "80",
+    "School": "Georgia Tech"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Roberto Goldberg 6-6 297 R Oregon [Pass Blocking] [0] 80",
+    "Rating": "80",
+    "School": "Oregon"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Esera Mulinu'u 6-7 330 R Duke [Run Blocking] [-1] 80",
+    "Rating": "80",
+    "School": "Duke"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Jared Strauss 6-6 316 R Texas A&M [Run Blocking] [0] 80",
+    "Rating": "80",
+    "School": "Texas A&M"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Philip Engel 6-2 301 R California [Run Blocking] [0] 80",
+    "Rating": "80",
+    "School": "California"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Hybrid",
+    "Player_Line": "QB Rasheed Bullock 6-4 209 R Duke [Hybrid] [0] 80",
+    "Rating": "80",
+    "School": "Duke"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Speed",
+    "Player_Line": "RB A.J. Garrett 6-1 189 R SDSU [Speed] [0] 80",
+    "Rating": "80",
+    "School": "SDSU"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Power",
+    "Player_Line": "RB Stephen Cunningham 5-11 194 R SMU [Power] [0] 80",
+    "Rating": "80",
+    "School": "SMU"
+  },
+  {
+    "Pos": "SS",
+    "Style": "Man Coverage",
+    "Player_Line": "SS Aziz Harvey 5-10 210 R Ohio State [Man Coverage] [0] [#] 80",
+    "Rating": "80",
+    "School": "Ohio State"
+  },
+  {
+    "Pos": "SS",
+    "Style": "Zone Coverage",
+    "Player_Line": "SS DaeSean Sample 6-2 194 R Clemson [Zone Coverage] [0] 80",
+    "Rating": "80",
+    "School": "Clemson"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Receiving",
+    "Player_Line": "TE Ka'jai Chisholm 6-6 212 R Purdue [Receiving] [-2] 80",
+    "Rating": "80",
+    "School": "Purdue"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Receiving",
+    "Player_Line": "TE Steven Moya 6-5 199 R Ball State [Receiving] [0] 80",
+    "Rating": "80",
+    "School": "Ball State"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Blocking",
+    "Player_Line": "TE Timothy Jennings 6-0 242 R SMU [Blocking] [0] [#] 80",
+    "Rating": "80",
+    "School": "SMU"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Receiving",
+    "Player_Line": "TE/WR Leolani Fepulea'i 6-4 197 R Boston College [Receiving] [+1] 80",
+    "Rating": "80",
+    "School": "Boston College"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Calvin McKay 6-4 207 R Nebraska [Target] [0] 80",
+    "Rating": "80",
+    "School": "Nebraska"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Manuel Villanueva 6-5 203 R Boston College [Target] [0] 80",
+    "Rating": "80",
+    "School": "Boston College"
+  },
+  {
+    "Pos": "C",
+    "Style": "Pass Blocking",
+    "Player_Line": "C Julio Vargas-Cano 6-1 267 R LSU [Pass Blocking] [+2/C] 79",
+    "Rating": "79",
+    "School": "LSU"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Contain",
+    "Player_Line": "DE Nicholas Blackwell 6-3 249 R Ohio [Contain] [0] 79",
+    "Rating": "79",
+    "School": "Ohio"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Jason Siegel 6-4 319 R Auburn [2-Gap] [-1] [#] 79",
+    "Rating": "79",
+    "School": "Auburn"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Pete Douglass 6-1 297 R Wisconsin [2-Gap] [0] 79",
+    "Rating": "79",
+    "School": "Wisconsin"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Specialized",
+    "Player_Line": "LS Cameron Cox 6-3 266 R Miami (OH) [Specialized] [0] 79",
+    "Rating": "79",
+    "School": "Miami (OH)"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Vincent McCabe 6-5 287 R Toledo [Run Blocking] [0] 79",
+    "Rating": "79",
+    "School": "Toledo"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Blitz",
+    "Player_Line": "OLB Ahmed Nicholas 6-4 238 R Duke [Blitz] [0] 79",
+    "Rating": "79",
+    "School": "Duke"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Blitz",
+    "Player_Line": "OLB Austin Talbert 6-3 222 R Rice [Blitz] [+1/C] 79",
+    "Rating": "79",
+    "School": "Rice"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Calvin Ray 6-1 230 R Missouri [Coverage] [+1] 79",
+    "Rating": "79",
+    "School": "Missouri"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Speed",
+    "Player_Line": "RB Miles Street 6-0 172 R Baylor [Speed] [-1] 79",
+    "Rating": "79",
+    "School": "Baylor"
+  },
+  {
+    "Pos": "SS",
+    "Style": "Man Coverage",
+    "Player_Line": "SS Kingsley Jackson 6-0 196 R LSU [Man Coverage] [+1] 79",
+    "Rating": "79",
+    "School": "LSU"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Danny Brantley Jr. 6-3 159 R Florida [Speed] [0] 79",
+    "Rating": "79",
+    "School": "Florida"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Dwayne Cobb 6-2 182 R North Alabama [Speed] [-3] [#] 79",
+    "Rating": "79",
+    "School": "North Alabama"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Martin Gage 6-3 154 R Oregon [Speed] [+1] 79",
+    "Rating": "79",
+    "School": "Oregon"
+  },
+  {
+    "Pos": "C",
+    "Style": "Pass Blocking",
+    "Player_Line": "C Isaiah Edwards 6-3 244 R SDSU [Pass Blocking] [+2] 78",
+    "Rating": "78",
+    "School": "SDSU"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB A.P. Crosby 6-1 196 R Ohio State [Zone Coverage] [-2] 78",
+    "Rating": "78",
+    "School": "Ohio State"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Man Coverage",
+    "Player_Line": "CB Dominique Baptiste 5-11 160 R Pittsburgh [Man Coverage] [+2] 78",
+    "Rating": "78",
+    "School": "Pittsburgh"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Man Coverage",
+    "Player_Line": "CB Javon Scott 5-11 195 R Temple [Man Coverage] [0/C] [#] 78",
+    "Rating": "78",
+    "School": "Temple"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Man Coverage",
+    "Player_Line": "CB Leonard Revis 6-2 202 R Minnesota [Man Coverage] [+1] 78",
+    "Rating": "78",
+    "School": "Minnesota"
+  },
+  {
+    "Pos": "FB",
+    "Style": "Pass Blocking",
+    "Player_Line": "FB Brendan Rector 6-1 237 R TCU [Pass Blocking] [+1] 78",
+    "Rating": "78",
+    "School": "TCU"
+  },
+  {
+    "Pos": "FS",
+    "Style": "Man Coverage",
+    "Player_Line": "FS Evan McRae 6-1 201 R SMU [Man Coverage] [+1] 78",
+    "Rating": "78",
+    "School": "SMU"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Will",
+    "Player_Line": "ILB Emmanuel Bowden 6-3 212 R Clemson [Will] [+2/C] 78",
+    "Rating": "78",
+    "School": "Clemson"
+  },
+  {
+    "Pos": "K",
+    "Style": "Power",
+    "Player_Line": "K Alexander Davenpo\ufeffrt 5-11 164 R Harvard [Power] [+2/C] 78",
+    "Rating": "78",
+    "School": "Harvard"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Alex Lawson 6-6 267 R Maryland [Run Blocking] [0] 78",
+    "Rating": "78",
+    "School": "Maryland"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Jeremiah Carlson 6-4 291 R Maryland [Pass Blocking] [+2] 78",
+    "Rating": "78",
+    "School": "Maryland"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Samuel Mueller 6-4 264 R Tulsa [Run Blocking] [+2/C] 78",
+    "Rating": "78",
+    "School": "Tulsa"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Aaron Darling 6-4 239 R Middle Tennessee State [Coverage] [0] 78",
+    "Rating": "78",
+    "School": "Middle Tennessee State"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Robert Devlin 6-4 230 R Purdue [Coverage] [+3] 78",
+    "Rating": "78",
+    "School": "Purdue"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT Adam DeLuca 6-1 328 R Navy [Pass Blocking] [0] 78",
+    "Rating": "78",
+    "School": "Navy"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT Griffin Bowden 6-6 309 R Memphis [Pass Blocking] [-1] 78",
+    "Rating": "78",
+    "School": "Memphis"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT Zack Oliveira 6-5 334 R NC State [Pass Blocking] [0] 78",
+    "Rating": "78",
+    "School": "NC State"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Hybrid",
+    "Player_Line": "QB Dontarrious Foster 6-0 219 R LSU [Hybrid] [0/C] 78",
+    "Rating": "78",
+    "School": "LSU"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Pocket",
+    "Player_Line": "QB Greg Carnes 6-1 223 R Delaware [Pocket] [+1/C] 78",
+    "Rating": "78",
+    "School": "Delaware"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Pocket",
+    "Player_Line": "QB Tyler Mackey 6-3 239 R Vanderbilt [Pocket] [0/C] 78",
+    "Rating": "78",
+    "School": "Vanderbilt"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Speed",
+    "Player_Line": "RB Devon Burton 5-8 191 R Kentucky [Speed] [+2] 78",
+    "Rating": "78",
+    "School": "Kentucky"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Power",
+    "Player_Line": "RB Raekwon Elam 5-8 201 R California [Power] [-1] 78",
+    "Rating": "78",
+    "School": "California"
+  },
+  {
+    "Pos": "SS",
+    "Style": "Man Coverage",
+    "Player_Line": "SS Dominique Waller 5-11 191 R Buffalo [Man Coverage] [+1] 78",
+    "Rating": "78",
+    "School": "Buffalo"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Jordan Barnes 6-0 223 R Ohio [Target] [-1] 78",
+    "Rating": "78",
+    "School": "Ohio"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Luke Sikuli 5-10 152 R Washington State [Speed] [0] 78",
+    "Rating": "78",
+    "School": "Washington State"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Rakeem Brown 6-2 230 R Louisiana-Lafayette [Target] [-1] 78",
+    "Rating": "78",
+    "School": "Louisiana-Lafayette"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Samuel Gray 6-5 228 R Southern Miss [Target] [+1] 78",
+    "Rating": "78",
+    "School": "Southern Miss"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Zak Clark-Stone 6-1 227 R Temple [Target] [+1] 78",
+    "Rating": "78",
+    "School": "Temple"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Zion Payton 6-1 191 R SDSU [Speed] [+2] 78",
+    "Rating": "78",
+    "School": "SDSU"
+  },
+  {
+    "Pos": "C",
+    "Style": "Pass Blocking",
+    "Player_Line": "C Carlos Peralta 6-2 267 R Illinois [Pass Blocking]\ufeff [0] [#] 77",
+    "Rating": "77",
+    "School": "Illinois"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB Armel Parham 5-9 164 R Northwestern [Zone Coverage] [-2] 77",
+    "Rating": "77",
+    "School": "Northwestern"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Contain",
+    "Player_Line": "DE Thomas Newsome 6-2 267 R Louisiana-Lafayette [Contain] [0] 77",
+    "Rating": "77",
+    "School": "Louisiana-Lafayette"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Kareem Lindsey 6-7 315 R Central Michigan [2-Gap] [0] 77",
+    "Rating": "77",
+    "School": "Central Michigan"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Kilohana Lealofioa'ana 6-0 326 R Tulsa [2-Gap] [0] 77",
+    "Rating": "77",
+    "School": "Tulsa"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Paul Walker 6-1 295 R Portland State [2-Gap] [0] 77",
+    "Rating": "77",
+    "School": "Portland State"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Xavier Bolden 6-5 293 R Southern Miss [2-Gap] [+1/C] 77",
+    "Rating": "77",
+    "School": "Southern Miss"
+  },
+  {
+    "Pos": "FS",
+    "Style": "Zone Coverage",
+    "Player_Line": "FS Manuel Womack 6-0 219 R Illinois [Zone Coverage] [-1] 77",
+    "Rating": "77",
+    "School": "Illinois"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB Bryce Smith 6-2 242 R Syracuse [Mike] [0] 77",
+    "Rating": "77",
+    "School": "Syracuse"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Will",
+    "Player_Line": "ILB Dillon Hall 6-3 243 R UCLA [Will] [+1/C] 77",
+    "Rating": "77",
+    "School": "UCLA"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Will",
+    "Player_Line": "ILB Jacoby Spangler 6-0 235 R Nevada [Will] [0] 77",
+    "Rating": "77",
+    "School": "Nevada"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB Miles Freeman 6-3 232 R Western Kentucky [Mike] [0] 77",
+    "Rating": "77",
+    "School": "Western Kentucky"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB Nate Garrett 6-2 251 R USC [Mike] [0] 77",
+    "Rating": "77",
+    "School": "USC"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking\ufeff",
+    "Player_Line": "OG \ufeffBrian Looney 6-\ufeff5 328 R LSU [Pass Blocking\ufeff] [+1/C] 77",
+    "Rating": "77",
+    "School": "LSU"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Ilan Jacobsen 6-5 338 R Memphis [Pass Blocking] [0] 77",
+    "Rating": "77",
+    "School": "Memphis"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Wesley Egan 6-2 329 R Minnesota [Run Blocking] [+2] 77",
+    "Rating": "77",
+    "School": "Minnesota"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Blitz",
+    "Player_Line": "OLB Franklin Holloway III 6-0 222 R Arkansas [Blitz] [+2] 77",
+    "Rating": "77",
+    "School": "Arkansas"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Quay Simmons 6-3 221 R Alabama [Coverage] [+2] 77",
+    "Rating": "77",
+    "School": "Alabama"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT Chase Huston 6-1 262 R Oregon [Pass Blocking] [0/C] 77",
+    "Rating": "77",
+    "School": "Oregon"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT Josh Amato 6-7 315 R Washington State [Pass Blocking] [0/C] [#] 77",
+    "Rating": "77",
+    "School": "Washington State"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Solomon Madsen 6-5 262 R UCF [Run Blocking] [0] 77",
+    "Rating": "77",
+    "School": "UCF"
+  },
+  {
+    "Pos": "P",
+    "Style": "Power",
+    "Player_Line": "P Adrian LeBlanc 5-9 181 R Washington [Power] [0] 77",
+    "Rating": "77",
+    "School": "Washington"
+  },
+  {
+    "Pos": "P",
+    "Style": "Power",
+    "Player_Line": "P Ben Groves 5-10 184 R Iowa State [Power] [0] 77",
+    "Rating": "77",
+    "School": "Iowa State"
+  },
+  {
+    "Pos": "P",
+    "Style": "Accuracy",
+    "Player_Line": "P Nathan Laughlin 5-11 165 R South Carolina [Accuracy] [0] 77",
+    "Rating": "77",
+    "School": "South Carolina"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Pocket",
+    "Player_Line": "QB Cooper Spillman 6-2 203 R Memphis [Pocket] [0/C] 77",
+    "Rating": "77",
+    "School": "Memphis"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Power",
+    "Player_Line": "RB Frankie Boone 5-8 189 R Illinois State [Power] [-1] 77",
+    "Rating": "77",
+    "School": "Illinois State"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Speed",
+    "Player_Line": "RB Sione Salanoa 5-8 193 R Penn State [Speed] [0] 77",
+    "Rating": "77",
+    "School": "Penn State"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Blocking",
+    "Player_Line": "TE Mark Westbrook 6-1 221 R Oklahoma State [Blocking] [0] 77",
+    "Rating": "77",
+    "School": "Oklahoma State"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Benjamin Solomon 6-4 195 R Oregon [Target] [-2] 77",
+    "Rating": "77",
+    "School": "Oregon"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Cameron Bowers 6-5 220 R Kansas [Target] [+1] 77",
+    "Rating": "77",
+    "School": "Kansas"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Darius Watkins 5-11 168 R Rice [Speed] [+2] 77",
+    "Rating": "77",
+    "School": "Rice"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Jeremy Sneed 6-4 234 R Temple [Target] [-2] 77",
+    "Rating": "77",
+    "School": "Temple"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Sebastian Amato 6-3 152 R Ball State [Speed] [+3] 77",
+    "Rating": "77",
+    "School": "Ball State"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Ukeme Adamu 6-4 232 R Grand Valley State [Target] [0] 77",
+    "Rating": "77",
+    "School": "Grand Valley State"
+  },
+  {
+    "Pos": "C",
+    "Style": "Pass Blocking",
+    "Player_Line": "C Darius Nixon 6-3 278 R FAU [Pass Blocking]\ufeff\ufeff [-1] 76",
+    "Rating": "76",
+    "School": "FAU"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Man Coverage",
+    "Player_Line": "CB Kenyon Porter 6-0 192 R McNeese [Man Coverage] [0] 76",
+    "Rating": "76",
+    "School": "McNeese"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB Natrone Drummond 5-11 192 R UCF [Zone Coverage] [0] 76",
+    "Rating": "76",
+    "School": "UCF"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Blitz",
+    "Player_Line": "DE Blake Ryan 6-2 258 R Wisconsin [Blitz] [+1/C] 76",
+    "Rating": "76",
+    "School": "Wisconsin"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Contain",
+    "Player_Line": "DE Cael Bruce 6-0 238 R Oklahoma State [Contain] [0] 76",
+    "Rating": "76",
+    "School": "Oklahoma State"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Contain",
+    "Player_Line": "DE Gabriel Darwin-Turner 6-1 250 R Arizona [Contain] [0] 76",
+    "Rating": "76",
+    "School": "Arizona"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Contain",
+    "Player_Line": "DE Matthias Delaney Jr. 6-0 257 R Maryland [Contain] [0] 76",
+    "Rating": "76",
+    "School": "Maryland"
+  },
+  {
+    "Pos": "DT",
+    "Style": "1-Gap",
+    "Player_Line": "DT Curtis Spiller 6-7 307 R Texas A&M [1-Gap] [0] 76",
+    "Rating": "76",
+    "School": "Texas A&M"
+  },
+  {
+    "Pos": "DT",
+    "Style": "1-Gap",
+    "Player_Line": "DT Finn Little 6-6 309 R Boston College [1-Gap] [0] 76",
+    "Rating": "76",
+    "School": "Boston College"
+  },
+  {
+    "Pos": "DT",
+    "Style": "1-Gap",
+    "Player_Line": "DT Russell Corbin 6-4 294 R Kentucky [1-Gap] [-3] 76",
+    "Rating": "76",
+    "School": "Kentucky"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Zachary Ledford 6-3 332 R Clemson [2-Gap] [-1] 76",
+    "Rating": "76",
+    "School": "Clemson"
+  },
+  {
+    "Pos": "FB",
+    "Style": "Pass Blocking",
+    "Player_Line": "FB Jaivon Sneed 5-9 201 R North Dakota State [Pass Blocking] [0] 76",
+    "Rating": "76",
+    "School": "North Dakota State"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Will",
+    "Player_Line": "ILB Adrian Garner 6-0 217 R Nebraska [Will] [+1] 76",
+    "Rating": "76",
+    "School": "Nebraska"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB Gregory Brantley 6-2 241 R Arkansas [Mike] [+2] 76",
+    "Rating": "76",
+    "School": "Arkansas"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Will",
+    "Player_Line": "ILB Ivan Bentley 5-11 216 R Hawaii [Will] [0] 76",
+    "Rating": "76",
+    "School": "Hawaii"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB Reece Matthews 6-2 249 R Louisiana-Monroe [Mike] [0] 76",
+    "Rating": "76",
+    "School": "Louisiana-Monroe"
+  },
+  {
+    "Pos": "K",
+    "Style": "Power",
+    "Player_Line": "K Evan Shipley 5-8 188 R Iowa State [Power] [+1/C] 76",
+    "Rating": "76",
+    "School": "Iowa State"
+  },
+  {
+    "Pos": "K",
+    "Style": "Accuracy",
+    "Player_Line": "K Michael Riley 5-9 186 R Hawaii [Accuracy] [+1] 76",
+    "Rating": "76",
+    "School": "Hawaii"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Specialized",
+    "Player_Line": "LS Dean North 6-0 238 R Northern Illinois [Specialized] [0] 76",
+    "Rating": "76",
+    "School": "Northern Illinois"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Lionel Washington 6-4 274 R Washburn [Run Blocking] [0] 76",
+    "Rating": "76",
+    "School": "Washburn"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Philip Barber 6-4 324 R California [Run Blocking] [0] 76",
+    "Rating": "76",
+    "School": "California"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Tristan Painter 6-1 311 R UTEP [Run Blocking] [+1] 76",
+    "Rating": "76",
+    "School": "UTEP"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Blitz",
+    "Player_Line": "OLB Connor Bradshaw Jr. 6-2 247 R Michigan State [Blitz] [0] 76",
+    "Rating": "76",
+    "School": "Michigan State"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Evan Andersen 6-0 226 R Alabama [Coverage] [-1] 76",
+    "Rating": "76",
+    "School": "Alabama"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Cameron Hanson 6-7 268 R West Virginia [Run Blocking] [0] 76",
+    "Rating": "76",
+    "School": "West Virginia"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT Fernando Hampton 6-5 284 R West Georgia [Pass Blocking] [0/C] 76",
+    "Rating": "76",
+    "School": "West Georgia"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT Freddie Penn 6-6 271 R Old Dominion [Pass Blocking] [0] 76",
+    "Rating": "76",
+    "School": "Old Dominion"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Leonardo Hurley 6-6 269 R Central Michigan [Run Blocking] [-1] [#] 76",
+    "Rating": "76",
+    "School": "Central Michigan"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Pocket",
+    "Player_Line": "QB Devon Wardwell 5-10 198 R Illinois State [Pocket] [0] 76",
+    "Rating": "76",
+    "School": "Illinois State"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Scrambling",
+    "Player_Line": "QB Messiah Winston 6-4 201 R Pittsburgh [Scrambling]\ufeff [+2] 76",
+    "Rating": "76",
+    "School": "Pittsburgh"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Pocket",
+    "Player_Line": "QB Shawn Crawley 6-6 219 R North Dakota [Pocket] [0/C] 76",
+    "Rating": "76",
+    "School": "North Dakota"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Power",
+    "Player_Line": "RB CeeCee Henderson 6-1 206 R Boise State [Power] [0] 76",
+    "Rating": "76",
+    "School": "Boise State"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Speed",
+    "Player_Line": "RB Hakeem Nixon 5-8 204 R Nebraska [Speed] [+3] 76",
+    "Rating": "76",
+    "School": "Nebraska"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Speed",
+    "Player_Line": "RB Josiah Brock 5-6 193 R Clemson [Speed] [-1] [+] 76",
+    "Rating": "76",
+    "School": "Clemson"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Power",
+    "Player_Line": "RB Luca Spurlock 6-1 232 R UCF [Power] [-2] 76",
+    "Rating": "76",
+    "School": "UCF"
+  },
+  {
+    "Pos": "SS",
+    "Style": "Man Coverage",
+    "Player_Line": "SS Robert Brantley 6-2 181 R Texas Tech [Man Coverage] [0] 76",
+    "Rating": "76",
+    "School": "Texas Tech"
+  },
+  {
+    "Pos": "SS",
+    "Style": "Zone Coverage",
+    "Player_Line": "SS Tristan Cox 6-0 182 R Hawaii [Zone Coverage] [+2] 76",
+    "Rating": "76",
+    "School": "Hawaii"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Blocking",
+    "Player_Line": "TE Branden Wilkes 6-3 230 R Nevada [Blocking] [+1] 76",
+    "Rating": "76",
+    "School": "Nevada"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Blocking",
+    "Player_Line": "TE Quincy Covington 6-2 229 R Auburn [Blocking] [+2] 76",
+    "Rating": "76",
+    "School": "Auburn"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Alshon Collier 6-3 165 R Nebraska [Speed] [-1] 76",
+    "Rating": "76",
+    "School": "Nebraska"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Dakota Copeland 5-9 199 R Texas A&M [Speed] [+1] 76",
+    "Rating": "76",
+    "School": "Texas A&M"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Lahahana Mulinu'u 6-1 162 R Hawaii [Speed] [0] 76",
+    "Rating": "76",
+    "School": "Hawaii"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Leon Marsh 6-1 206 R Virginia Tech [Target] [0] 76",
+    "Rating": "76",
+    "School": "Virginia Tech"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Noah Tumaalii 6-4 225 R UCLA [Target] [0] 76",
+    "Rating": "76",
+    "School": "UCLA"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Prince Malone 6-3 221 R Toledo [Target] [-2] [#] 76",
+    "Rating": "76",
+    "School": "Toledo"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Tyler Hansen 6-4 225 R UTSA [Target] [0] 76",
+    "Rating": "76",
+    "School": "UTSA"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Zain Hyde 6-1 225 R Utah [Target] [+1] 76",
+    "Rating": "76",
+    "School": "Utah"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB Dillon Bradley 6-2 193 R UTSA [Zone Coverage] [0] 75",
+    "Rating": "75",
+    "School": "UTSA"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB Raekwon Hemphill 5-9 198 R Air Force [Zone Coverage] [+1] 75",
+    "Rating": "75",
+    "School": "Air Force"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Man Covarage",
+    "Player_Line": "CB Rahsaan Reese 5-11 182 R Valdosta State [Man Covarage] [+1/C] 75",
+    "Rating": "75",
+    "School": "Valdosta State"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Blitz",
+    "Player_Line": "DE Carl Allen 6-1 259 R Florida A&M [Blitz] [-1] [#] 75",
+    "Rating": "75",
+    "School": "Florida A&M"
+  },
+  {
+    "Pos": "DT",
+    "Style": "1-Gap",
+    "Player_Line": "DT Jonah Caruso 6-1 286 R Kansas State [1-Gap] [0] 75",
+    "Rating": "75",
+    "School": "Kansas State"
+  },
+  {
+    "Pos": "FB",
+    "Style": "Run Blocking",
+    "Player_Line": "FB Cooper Christianson 6-0 202 R Houston [Run Blocking] [0/C] 75",
+    "Rating": "75",
+    "School": "Houston"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB Cesar Uribe 6-4 226 R Missouri [Mike] [-1] 75",
+    "Rating": "75",
+    "School": "Missouri"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB Corey Blewitt 6-4 243 R Tennessee State [Mike] [0/C] 75",
+    "Rating": "75",
+    "School": "Tennessee State"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB D'Andre Phillips 6-4 252 R California [Mike] [0/C] 75",
+    "Rating": "75",
+    "School": "California"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Will",
+    "Player_Line": "ILB Damani Neal 6-2 237 R Texas A&M [Will] [-1/C] 75",
+    "Rating": "75",
+    "School": "Texas A&M"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB K\ufeffane Witherspoon 6-4 257 R Utah [Mike] [0] 75",
+    "Rating": "75",
+    "School": "Utah"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB Parker Goldman 6-3 254 R Clemson [Mike] [0] 75",
+    "Rating": "75",
+    "School": "Clemson"
+  },
+  {
+    "Pos": "K",
+    "Style": "Power",
+    "Player_Line": "K Gavin Benner 5-9 196 R Pittsburgh [Power] [-1] 75",
+    "Rating": "75",
+    "School": "Pittsburgh"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Traditional",
+    "Player_Line": "LS Dylan Carlson 6-3 258 R UAB [Traditional] [0] 75",
+    "Rating": "75",
+    "School": "UAB"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Specialized",
+    "Player_Line": "LS Jordy Marquez 6-0 263 R Minnesota [Specialized] [0] 75",
+    "Rating": "75",
+    "School": "Minnesota"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Ethan Bennett 6-3 312 R Central Michigan [Run Blocking] [0] 75",
+    "Rating": "75",
+    "School": "Central Michigan"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Isaiah Jimenez 6-1 255 R Auburn [Run Blocking] [0] 75",
+    "Rating": "75",
+    "School": "Auburn"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Paul Wynn 6-2 316 R SDSU [Pass Blocking] [+1/C] 75",
+    "Rating": "75",
+    "School": "SDSU"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Tony Keating 6-4 339 R Texas [Run Blocking] [-1] 75",
+    "Rating": "75",
+    "School": "Texas"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Blitz",
+    "Player_Line": "OLB Alexander Yeager 6-1 243 R Colorado State [Blitz] [0] 75",
+    "Rating": "75",
+    "School": "Colorado State"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Brian Suarez 6-3 236 R Oklahoma State [Coverage] [0] 75",
+    "Rating": "75",
+    "School": "Oklahoma State"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Gregory Faulkner 6-3 217 R Temple [Coverage] [-2] 75",
+    "Rating": "75",
+    "School": "Temple"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT Simon Bruce 6-6 299 R North Texas [Pass Blocking] [0] 75",
+    "Rating": "75",
+    "School": "North Texas"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Scrambling",
+    "Player_Line": "QB Brett England 6-5 238 R Florida State [Scrambling] [0/C] 75",
+    "Rating": "75",
+    "School": "Florida State"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Pocket",
+    "Player_Line": "QB Evan Perkins 6-3 199 R Michigan [Pocket] [0/C] 75",
+    "Rating": "75",
+    "School": "Michigan"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Hybrid",
+    "Player_Line": "QB Fabian Garcia-Velasquez 6-3 225 R UCF [Hybrid] [0] 75",
+    "Rating": "75",
+    "School": "UCF"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Pocket",
+    "Player_Line": "QB Graham Faulkner 6-3 218 R Purdue [Pocket] [0] 75",
+    "Rating": "75",
+    "School": "Purdue"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Pocket",
+    "Player_Line": "QB Vaughn Sheppard 6-5 196 R Iowa State [Pocket] [0] 75",
+    "Rating": "75",
+    "School": "Iowa State"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Speed",
+    "Player_Line": "RB Aiden Colbert 5-6 196 R New Mexico [Speed] [-1] 75",
+    "Rating": "75",
+    "School": "New Mexico"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Power",
+    "Player_Line": "RB Alec Self 6-1 226 R Buffalo [Power] [-2] 75",
+    "Rating": "75",
+    "School": "Buffalo"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Power",
+    "Player_Line": "RB Chris Fraser 5-6 199 R Hawaii [Power] [0] 75",
+    "Rating": "75",
+    "School": "Hawaii"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Power",
+    "Player_Line": "RB Eddie Clinton 5-7 219 R Tennessee [Power] [-2] [#] 75",
+    "Rating": "75",
+    "School": "Tennessee"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Power",
+    "Player_Line": "RB Gregory Crosby 5-11 194 R Middle Tennessee State [Power] [-1] 75",
+    "Rating": "75",
+    "School": "Middle Tennessee State"
+  },
+  {
+    "Pos": "SS",
+    "Style": "Man Coverage",
+    "Player_Line": "SS Robert McQueen 5-10 184 R Tulsa [Man Coverage] [0/C] 75",
+    "Rating": "75",
+    "School": "Tulsa"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Receiving",
+    "Player_Line": "TE Atamu Niumatalolo 6-5 194 R Boise State [Receiving] [-1] 75",
+    "Rating": "75",
+    "School": "Boise State"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Blocking",
+    "Player_Line": "TE Tristan Mingo 6-3 243 R Oregon [Blocking] [0] 75",
+    "Rating": "75",
+    "School": "Oregon"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Jacquies Whitaker 6-0 156 R Cincinnati [Speed] [-2/C] 75",
+    "Rating": "75",
+    "School": "Cincinnati"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Raffiel Flowers 6-6 219 R Stephen F. Austin [Target] [+2] 75",
+    "Rating": "75",
+    "School": "Stephen F. Austin"
+  },
+  {
+    "Pos": "C",
+    "Style": "Run Blocking",
+    "Player_Line": "C John Eubanks 6-1 268 R California [Run Blocking] [-1] 74",
+    "Rating": "74",
+    "School": "California"
+  },
+  {
+    "Pos": "C",
+    "Style": "Pass Blocking",
+    "Player_Line": "C Nathaniel Ragsdale 6-1 285 R Tulane [Pass Blocking] [0] 74",
+    "Rating": "74",
+    "School": "Tulane"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Man Coverage",
+    "Player_Line": "CB Avery Broughton 6-0 191 R LSU [Man Coverage] [0] 74",
+    "Rating": "74",
+    "School": "LSU"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Contain",
+    "Player_Line": "DE Alexander Talbert 6-2 261 R Baylor [Contain] [0] [+] 74",
+    "Rating": "74",
+    "School": "Baylor"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Contain",
+    "Player_Line": "DE Omari Pearson 6-6 246 R Old Dominion [Contain] [-1] [#] 74",
+    "Rating": "74",
+    "School": "Old Dominion"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Alpha Goldman 6-4 301 R Arizona State [2-Gap] [-3] 74",
+    "Rating": "74",
+    "School": "Arizona State"
+  },
+  {
+    "Pos": "FB",
+    "Style": "Pass Blocking",
+    "Player_Line": "FB Beckett Williamson 5-11 238 R Colorado [Pass Blocking] [0] 74",
+    "Rating": "74",
+    "School": "Colorado"
+  },
+  {
+    "Pos": "FB",
+    "Style": "Pass Blocking",
+    "Player_Line": "FB Lorenzo McMullin Jr. 6-1 200 R Alabama [Pass Blocking] [-2] 74",
+    "Rating": "74",
+    "School": "Alabama"
+  },
+  {
+    "Pos": "FS",
+    "Style": "Zone Coverage",
+    "Player_Line": "FS Patrick Simms 6-2 200 R Mississippi State [Zone Coverage] [0] 74",
+    "Rating": "74",
+    "School": "Mississippi State"
+  },
+  {
+    "Pos": "K",
+    "Style": "Power",
+    "Player_Line": "K Nathan Shell 6-1 213 R Charlotte [Power] [0] 74",
+    "Rating": "74",
+    "School": "Charlotte"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Traditional",
+    "Player_Line": "LS Aaden Flowers 6-2 233 R South Dakota State [Traditional] [0] 74",
+    "Rating": "74",
+    "School": "South Dakota State"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Specialized",
+    "Player_Line": "LS John Chambers 6-3 256 R Duke [Specialized] [0] 74",
+    "Rating": "74",
+    "School": "Duke"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Traditional",
+    "Player_Line": "LS Matthew Jenkins 6-3 243 R FAU [Traditional] [0] 74",
+    "Rating": "74",
+    "School": "FAU"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Specialized",
+    "Player_Line": "LS Pat Pace 6-1 262 R SMU [Specialized] [0] 74",
+    "Rating": "74",
+    "School": "SMU"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Anthony Nunes 6-4 261 R Temple [Run Blocking] [-1] 74",
+    "Rating": "74",
+    "School": "Temple"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Bentley Simpson 6-1 302 R Texas [Pass Blocking] [-1] 74",
+    "Rating": "74",
+    "School": "Texas"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Carston Ingram 6-5 268 R Towson [Run Blocking] [0] 74",
+    "Rating": "74",
+    "School": "Towson"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Cason Sheppard 6-1 319 R Nebraska [Run Blocking] [0] 74",
+    "Rating": "74",
+    "School": "Nebraska"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Christian Bergeron 6-2 310 R Rutgers [Run Blocking] [-2] 74",
+    "Rating": "74",
+    "School": "Rutgers"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Cameron Maxwell 6-2 230 R Washington State [Coverage] [0] 74",
+    "Rating": "74",
+    "School": "Washington State"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Christian Cowart 6-1 243 R Pittsburgh [Coverage] [-1] 74",
+    "Rating": "74",
+    "School": "Pittsburgh"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB David Bullock 6-1 224 R Arkansas State [Coverage] [-1] 74",
+    "Rating": "74",
+    "School": "Arkansas State"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Jonas Hooker 6-1 230 R Vanderbilt [Coverage] [0] 74",
+    "Rating": "74",
+    "School": "Vanderbilt"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Blitz",
+    "Player_Line": "OLB Joseph Nugent 6-3 242 R North Texas [Blitz] [0] 74",
+    "Rating": "74",
+    "School": "North Texas"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Brian Vandyke 6-7 315 R LSU [Run Blocking] [0] 74",
+    "Rating": "74",
+    "School": "LSU"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT Lenny LeDesma 6-5 296 R Stanford [Pass Blocking] [-1] 74",
+    "Rating": "74",
+    "School": "Stanford"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Zontavius Greer 6-1 302 R Oklahoma [Run Blocking] [0] 74",
+    "Rating": "74",
+    "School": "Oklahoma"
+  },
+  {
+    "Pos": "P",
+    "Style": "Accuracy",
+    "Player_Line": "P Quinn Foy 5-7 173 R UAB [Accuracy] [0] 74",
+    "Rating": "74",
+    "School": "UAB"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Pocket",
+    "Player_Line": "QB Josh Allman 6-4 205 R Oregon [Pocket] [0] 74",
+    "Rating": "74",
+    "School": "Oregon"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Power",
+    "Player_Line": "RB Charles Bowser 5-7 216 R USC [Power] [0] 74",
+    "Rating": "74",
+    "School": "USC"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Blocking",
+    "Player_Line": "TE Buster Hayes 6-0 219 R Michigan [Blocking] [0] 74",
+    "Rating": "74",
+    "School": "Michigan"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Bobby Frazier 6-1 228 R Texas A&M [Target] [-1] 74",
+    "Rating": "74",
+    "School": "Texas A&M"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Chance Thurman 6-1 223 R Wisconsin [Target] [-1] 74",
+    "Rating": "74",
+    "School": "Wisconsin"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB Da'Quan Waller 5-11 190 R Army [Zone Coverage] [0/C] 73",
+    "Rating": "73",
+    "School": "Army"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB Spencer Dick 5-10 174 R Minnesota [Zone Coverage] [-1] 73",
+    "Rating": "73",
+    "School": "Minnesota"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Blitz",
+    "Player_Line": "DE Elijah Aponte 6-7 257 R Boise State [Blitz] [0] 73",
+    "Rating": "73",
+    "School": "Boise State"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Blitz",
+    "Player_Line": "DE Joan Espinoza 6-0 253 R Boston College [Blitz] [-2] [#] 73",
+    "Rating": "73",
+    "School": "Boston College"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Contain",
+    "Player_Line": "DE Max Abel 6-3 253 R Oklahoma [Contain] [0] 73",
+    "Rating": "73",
+    "School": "Oklahoma"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Abdoul Mayo 6-3 284 R Kansas [2-Gap] [0] 73",
+    "Rating": "73",
+    "School": "Kansas"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Adam Gibson 6-3 331 R California [2-Gap] [0] 73",
+    "Rating": "73",
+    "School": "California"
+  },
+  {
+    "Pos": "FS",
+    "Style": "Zone Coverage",
+    "Player_Line": "FS Darron Bynum 6-1 190 R Kentucky [Zone Coverage] [0] 73",
+    "Rating": "73",
+    "School": "Kentucky"
+  },
+  {
+    "Pos": "FS",
+    "Style": "Man Coverage",
+    "Player_Line": "FS Tre'Kell Kennedy 6-1 216 R Jacksonville State [Man Coverage] [0] 73",
+    "Rating": "73",
+    "School": "Jacksonville State"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Will",
+    "Player_Line": "ILB Keenan High 6-3 206 R Air Force [Will] [0/C] 73",
+    "Rating": "73",
+    "School": "Air Force"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Will",
+    "Player_Line": "ILB Luther Guidry 6-2 225 R Navy [Will] [0] 73",
+    "Rating": "73",
+    "School": "Navy"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Specialized",
+    "Player_Line": "LS Amir Dobbs 6-0 245 R Georgia [Specialized] [0] [#] 73",
+    "Rating": "73",
+    "School": "Georgia"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Traditional",
+    "Player_Line": "LS Peter Orr 6-1 231 R Nevada [Traditional] [0] 73",
+    "Rating": "73",
+    "School": "Nevada"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Ayden Kilpatrick 6-7 255 R UCLA [Pass Blocking] [-1] [+] 73",
+    "Rating": "73",
+    "School": "UCLA"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Justin Good 6-5 321 R Vanderbilt [Pass Blocking] [0] 73",
+    "Rating": "73",
+    "School": "Vanderbilt"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Milo Arndt 6-7 318 R Purdue [Run Blocking] [-1] 73",
+    "Rating": "73",
+    "School": "Purdue"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT Omar Price 6-5 298 R Gardner-Webb [Pass Blocking] [0] 73",
+    "Rating": "73",
+    "School": "Gardner-Webb"
+  },
+  {
+    "Pos": "P",
+    "Style": "Power",
+    "Player_Line": "P Mayer Dickson 6-2 178 R USF [Power] [0] 73",
+    "Rating": "73",
+    "School": "USF"
+  },
+  {
+    "Pos": "P",
+    "Style": "Power",
+    "Player_Line": "P Raymond Land 6-1 182 R Rice [Power] [0] 73",
+    "Rating": "73",
+    "School": "Rice"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Scrambling",
+    "Player_Line": "QB Omar Workman 5-10 227 R Houston [Scrambling] [0] 73",
+    "Rating": "73",
+    "School": "Houston"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Griffin Berman 6-3 284 R Ole Miss [2-Gap] [-1] 72",
+    "Rating": "72",
+    "School": "Ole Miss"
+  },
+  {
+    "Pos": "FS",
+    "Style": "Zone Coverage",
+    "Player_Line": "FS Geno Atkins 6-1 208 R Ball State [Zone Coverage] [-1] 72",
+    "Rating": "72",
+    "School": "Ball State"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Colin Judd 5-11 220 R Boston College [Coverage] [0] 72",
+    "Rating": "72",
+    "School": "Boston College"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT Pat Linder 6-5 326 R Air Force [Pass Blocking] [+1] 72",
+    "Rating": "72",
+    "School": "Air Force"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Pocket",
+    "Player_Line": "QB Franklin Fuller Jr. 6-6 239 R Holy Cross [Pocket] [0] 72",
+    "Rating": "72",
+    "School": "Holy Cross"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Speed",
+    "Player_Line": "RB Amir Turner Jr. 5-8 195 R Georgia Southern [Speed] [-2] [#] 72",
+    "Rating": "72",
+    "School": "Georgia Southern"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Receiving",
+    "Player_Line": "TE Eric Haywood 6-4 234 R Northern Iowa [Receiving] [-1] 72",
+    "Rating": "72",
+    "School": "Northern Iowa"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Blocking",
+    "Player_Line": "TE Wyatt Tucker 6-3 227 R Missouri [Blocking] [0] 72",
+    "Rating": "72",
+    "School": "Missouri"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Mateo Gates 6-3 198 R Florida State [Target] [0] 72",
+    "Rating": "72",
+    "School": "Florida State"
+  },
+  {
+    "Pos": "C",
+    "Style": "Run Blocking",
+    "Player_Line": "C Kyle Goodson 6-3 280 R Kansas [Run Blocking] [0/C] 71",
+    "Rating": "71",
+    "School": "Kansas"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Blitz",
+    "Player_Line": "DE Hakeem Easley-Andrews 6-2 224 R Florida State [Blitz] [+1] 71",
+    "Rating": "71",
+    "School": "Florida State"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Blitz",
+    "Player_Line": "DE/OLB Brandon Dawkins 6-7 268 R Rice [Blitz] [0] 71",
+    "Rating": "71",
+    "School": "Rice"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB Solomon Mahan 6-4 245 R NC State [Mike] [+2/C] 71",
+    "Rating": "71",
+    "School": "NC State"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Charlie Barker 6-4 324 R Washington [Run Blocking] [+1] 71",
+    "Rating": "71",
+    "School": "Washington"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Austin Callahan 6-3 224 R Texas Tech [Coverage] [+1/C] 71",
+    "Rating": "71",
+    "School": "Texas Tech"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Blitz",
+    "Player_Line": "OLB Branden Riggins 6-3 217 R Mississippi State [Blitz] [-1/C] 71",
+    "Rating": "71",
+    "School": "Mississippi State"
+  },
+  {
+    "Pos": "\ufeffOLB",
+    "Style": "Coverage",
+    "Player_Line": "\ufeffOLB Rakeem McMillan 6-4 234 R New Mexico [Coverage]\ufeff [+2] 71",
+    "Rating": "71",
+    "School": "New Mexico"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Blitz",
+    "Player_Line": "OLB Savion Hooker 6-0 242 R Nevada [Blitz] [+1] 71",
+    "Rating": "71",
+    "School": "Nevada"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT Mason Hamby 6-3 277 R Oregon State [Pass Blocking] [0] 71",
+    "Rating": "71",
+    "School": "Oregon State"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Pocket",
+    "Player_Line": "QB Austin Lowe 6-5 233 R Ohio [Pocket] [0] 71",
+    "Rating": "71",
+    "School": "Ohio"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Hybrid",
+    "Player_Line": "QB Caleb Olmsted 6-5 231 R South Dakota State [Hybrid] [0] 71",
+    "Rating": "71",
+    "School": "South Dakota State"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Power",
+    "Player_Line": "RB Jamal Boyd 6-1 194 R Oklahoma State [Power] [+2/C] 71",
+    "Rating": "71",
+    "School": "Oklahoma State"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Receiving",
+    "Player_Line": "TE Tremaine Fortier 6-6 231 R James Madison  [Receiving] [0] 71",
+    "Rating": "71",
+    "School": "James Madison"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Clinton Stewart-Davids 5-10 192 R SMU [Speed] [+1] 71",
+    "Rating": "71",
+    "School": "SMU"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Jordan Haley 6-3 181 R Georgia Southern [Target] [+1] 71",
+    "Rating": "71",
+    "School": "Georgia Southern"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Jordan St. John 6-4 156 R Minnesota [Speed] [-1] 71",
+    "Rating": "71",
+    "School": "Minnesota"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB Brian Webb 6-1 176 R LSU [Zone Coverage] [-1] 70",
+    "Rating": "70",
+    "School": "LSU"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Man Coverage",
+    "Player_Line": "CB Dion Sutton 6-1 167 R Clemson [Man Coverage] [-1] 70",
+    "Rating": "70",
+    "School": "Clemson"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Blitz",
+    "Player_Line": "DE Antoine Dudley 6-5 271 R Washington [Blitz] [0] [#] 70",
+    "Rating": "70",
+    "School": "Washington"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Contain",
+    "Player_Line": "DE Cooper Simpkins 6-0 269 R Missouri [Contain] [0] 70",
+    "Rating": "70",
+    "School": "Missouri"
+  },
+  {
+    "Pos": "DT",
+    "Style": "1-Gap",
+    "Player_Line": "DT Daxton Carter 6-2 276 R SMU [1-Gap] [-1] 70",
+    "Rating": "70",
+    "School": "SMU"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Mario Leone 6-0 322 R Purdue [2-Gap] [0] 70",
+    "Rating": "70",
+    "School": "Purdue"
+  },
+  {
+    "Pos": "FB",
+    "Style": "Pass Blocking",
+    "Player_Line": "FB Clinton Singleton Jr. 5-10 230 R UTSA [Pass Blocking] [0/C] 70",
+    "Rating": "70",
+    "School": "UTSA"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB Amari Bradford 6-3 248 R Oklahoma State [Mike] [-1/C] 70",
+    "Rating": "70",
+    "School": "Oklahoma State"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Will",
+    "Player_Line": "ILB Devin Murray 6-2 224 R North Dakota [Will] [-1] 70",
+    "Rating": "70",
+    "School": "North Dakota"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB Marcus Roman 6-3 227 R Boston College [Mike] [+2/C] 70",
+    "Rating": "70",
+    "School": "Boston College"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Will",
+    "Player_Line": "ILB Michael Ware 6-2 244 R SMU [Will] [+1] 70",
+    "Rating": "70",
+    "School": "SMU"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Will",
+    "Player_Line": "ILB Thomas Koenig 6-3 207 R Oklahoma State [Will] [+1] 70",
+    "Rating": "70",
+    "School": "Oklahoma State"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Will",
+    "Player_Line": "ILB Walter Daugherty 6-2 214 R Washington [Will]\ufeff\ufeff [0] 70",
+    "Rating": "70",
+    "School": "Washington"
+  },
+  {
+    "Pos": "K",
+    "Style": "Accuracy",
+    "Player_Line": "K Jeremy Layton 5-11 177 R Georgia [Accuracy] [0] 70",
+    "Rating": "70",
+    "School": "Georgia"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Specialized",
+    "Player_Line": "LS Miles Rolle 6-3 235 R Southern Miss [Specialized] [0] 70",
+    "Rating": "70",
+    "School": "Southern Miss"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Connor Pope 6-6 330 R Louisville [Pass Blocking] [0] 70",
+    "Rating": "70",
+    "School": "Louisville"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Eli Segura 6-6 266 R Duke [Pass Blocking] [+1] 70",
+    "Rating": "70",
+    "School": "Duke"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Leonardo Giordano 6-5 272 R Michigan [Pass Blocking] [+1] 70",
+    "Rating": "70",
+    "School": "Michigan"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Carlos Singletary 5-11 238 R Cincinnati [Coverage] [0] 70",
+    "Rating": "70",
+    "School": "Cincinnati"
+  },
+  {
+    "Pos": "P",
+    "Style": "Accuracy",
+    "Player_Line": "P Nick Krause 5-7 182 R Montana [Accuracy] [0] 70",
+    "Rating": "70",
+    "School": "Montana"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Pocket",
+    "Player_Line": "QB Christian Noonan 6-6 213 R Arizona [Pocket] [0/C] 70",
+    "Rating": "70",
+    "School": "Arizona"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Pocket",
+    "Player_Line": "QB Dillon Tucker 5-10 218 R New Mexico [Pocket] [0] 70",
+    "Rating": "70",
+    "School": "New Mexico"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Hybrid",
+    "Player_Line": "QB Justin Radford 6-0 200 R UTSA [Hybrid] [0] 70",
+    "Rating": "70",
+    "School": "UTSA"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Power",
+    "Player_Line": "RB Jonah Ponder 5-11 209 R Texas A&M [Power] [0] 70",
+    "Rating": "70",
+    "School": "Texas A&M"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Power",
+    "Player_Line": "RB Leonard Williams 6-1 213 R South Alabama [Power] [-2] [#] 70",
+    "Rating": "70",
+    "School": "South Alabama"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Power",
+    "Player_Line": "RB Makai Denson 5-8 212 R Northwestern [Power] [0] 70",
+    "Rating": "70",
+    "School": "Northwestern"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Blocking",
+    "Player_Line": "TE Miles Hunter 6-1 244 R Georgia State [Blocking] [+1] 70",
+    "Rating": "70",
+    "School": "Georgia State"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Gabriel Willis 6-3 166 R Charlotte [Speed] [0] 70",
+    "Rating": "70",
+    "School": "Charlotte"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Jordan Christy 5-10 159 R Syracuse [Speed] [+1] 70",
+    "Rating": "70",
+    "School": "Syracuse"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Makai Simpson 6-0 226 R Utah State [Target] [0] 70",
+    "Rating": "70",
+    "School": "Utah State"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB Donovan Powell 6-0 184 R Stanford [Zone Coverage] [+1] 69",
+    "Rating": "69",
+    "School": "Stanford"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB Kendrick McAllister 5-10 175 R UCF [Zone Coverage] [-2] 69",
+    "Rating": "69",
+    "School": "UCF"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Man Coverage",
+    "Player_Line": "CB Zac Forte 5-10 189 R Kentucky [Man Coverage] [0] 69",
+    "Rating": "69",
+    "School": "Kentucky"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Blitz",
+    "Player_Line": "DE Dwayne McCrary 6-6 250 R Georgia State [Blitz]\ufeff [+1] 69",
+    "Rating": "69",
+    "School": "Georgia State"
+  },
+  {
+    "Pos": "DT",
+    "Style": "1-Gap",
+    "Player_Line": "DT Alan Hubbard 6-7 304 R Ohio State [1-Gap] [0] 69",
+    "Rating": "69",
+    "School": "Ohio State"
+  },
+  {
+    "Pos": "DT",
+    "Style": "1-Gap",
+    "Player_Line": "DT Bobby Whitlock 6-1 310 R Illinois [1-Gap] [+1] 69",
+    "Rating": "69",
+    "School": "Illinois"
+  },
+  {
+    "Pos": "DT",
+    "Style": "1-Gap",
+    "Player_Line": "DT Hakeem Brock 6-6 278 R NC State [1-Gap]\ufeff\ufeff [0] 69",
+    "Rating": "69",
+    "School": "NC State"
+  },
+  {
+    "Pos": "DT",
+    "Style": "1-Gap",
+    "Player_Line": "DT Hampton Carver 6-6 302 R Samford [1-Gap] [-1] 69",
+    "Rating": "69",
+    "School": "Samford"
+  },
+  {
+    "Pos": "FB",
+    "Style": "Run Blocking",
+    "Player_Line": "FB John Benton 5-10 238 R Iowa [Run Blocking] [+2] 69",
+    "Rating": "69",
+    "School": "Iowa"
+  },
+  {
+    "Pos": "FS",
+    "Style": "Zone Coverage",
+    "Player_Line": "FS A.J. Wallace 6-0 185 R Michigan [Zone Coverage] [+1] 69",
+    "Rating": "69",
+    "School": "Michigan"
+  },
+  {
+    "Pos": "FS",
+    "Style": "Zone Coverage",
+    "Player_Line": "FS Carter Richmond 6-0 189 R Boston College [Zone Coverage] [0] 69",
+    "Rating": "69",
+    "School": "Boston College"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Will",
+    "Player_Line": "ILB Elias Ladd 5-11 219 R Baylor [Will] [0] 69",
+    "Rating": "69",
+    "School": "Baylor"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB Simon Daugherty 6-4 242 R Georgia [Mike] [0] 69",
+    "Rating": "69",
+    "School": "Georgia"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Specialized",
+    "Player_Line": "LS Aden Dolan 6-3 238 R Florida State [Specialized] [+1] 69",
+    "Rating": "69",
+    "School": "Florida State"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Beckett Donohue 6-2 322 R San Jose State [Pass Blocking] [0] 69",
+    "Rating": "69",
+    "School": "San Jose State"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Constantine Perkins 6-4 321 R SDSU [Pass Blocking] [-1] 69",
+    "Rating": "69",
+    "School": "SDSU"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Leolani Lealofi 6-4 318 R Northwestern [Pass Blocking] [0] 69",
+    "Rating": "69",
+    "School": "Northwestern"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Brian Jensen 6-1 217 R Illinois State [Coverage] [0] 69",
+    "Rating": "69",
+    "School": "Illinois State"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Blitz",
+    "Player_Line": "OLB Nathan Perkins 5-11 231 R Oregon [Blitz] [0] [+] 69",
+    "Rating": "69",
+    "School": "Oregon"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Ronnie Richmond 5-11 218 R SMU [Coverage] [-2] 69",
+    "Rating": "69",
+    "School": "SMU"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Blitz",
+    "Player_Line": "OLB Ryan Reid 6-3 216 R Florida [Blitz] [0/C] 69",
+    "Rating": "69",
+    "School": "Florida"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Ben Boggs 6-4 261 R Georgia State [Run Blocking] [0] 69",
+    "Rating": "69",
+    "School": "Georgia State"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT Connor Hayes 6-7 277 R FAU [Pass Blocking] [0] 69",
+    "Rating": "69",
+    "School": "FAU"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Donovan Caballero 6-3 282 R Syracuse [Run Blocking] [0] [+] 69",
+    "Rating": "69",
+    "School": "Syracuse"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Drew Goodrich 6-1 281 R South Dakota State [Run Blocking] [-1] 69",
+    "Rating": "69",
+    "School": "South Dakota State"
+  },
+  {
+    "Pos": "P",
+    "Style": "Power",
+    "Player_Line": "P Louis Barfield 6-4 193 R Duke [Power] [0] 69",
+    "Rating": "69",
+    "School": "Duke"
+  },
+  {
+    "Pos": "P",
+    "Style": "Accuracy",
+    "Player_Line": "P Mateo Spencer 6-1 159 R Western Kentucky [Accuracy] [-1] 69",
+    "Rating": "69",
+    "School": "Western Kentucky"
+  },
+  {
+    "Pos": "P",
+    "Style": "Accuracy",
+    "Player_Line": "P Matthew Speer 5-10 176 R Northwestern [Accuracy] [-1] 69",
+    "Rating": "69",
+    "School": "Northwestern"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Pocket",
+    "Player_Line": "QB Eli Sherrill 5-10 215 R Virginia Tech [Pocket] [-1] [#] 69",
+    "Rating": "69",
+    "School": "Virginia Tech"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Scrambling",
+    "Player_Line": "QB Rangi Grey 6-0 199 R Indiana [Scrambling] [-1] 69",
+    "Rating": "69",
+    "School": "Indiana"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Power",
+    "Player_Line": "RB Nathan Zeigler 5-8 201 R Purdue [Power] [0] 69",
+    "Rating": "69",
+    "School": "Purdue"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Receiving",
+    "Player_Line": "TE Ari Blair 6-6 211 R UTEP [Receiving] [0] 69",
+    "Rating": "69",
+    "School": "UTEP"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Blocking",
+    "Player_Line": "TE Brandon Reinhardt 6-2 241 R FIU [Blocking] [+2/C] 69",
+    "Rating": "69",
+    "School": "FIU"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Receiving",
+    "Player_Line": "TE Jalen Rouse 6-3 208 R Penn State [Receiving] [-1] 69",
+    "Rating": "69",
+    "School": "Penn State"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Blocking",
+    "Player_Line": "TE Stephen Bray 6-2 234 R Connecticut [Blocking] [0] 69",
+    "Rating": "69",
+    "School": "Connecticut"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Receiving",
+    "Player_Line": "TE Yanisin Garrett 6-3 203 R Nebraska [Receiving] [0] 69",
+    "Rating": "69",
+    "School": "Nebraska"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Arona Seau 6-2 192 R Tulsa [Speed] [-1] 69",
+    "Rating": "69",
+    "School": "Tulsa"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Darron Myles 6-3 205 R North Texas [Target] [-1] 69",
+    "Rating": "69",
+    "School": "North Texas"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Maurice Redmond 6-1 198 R LSU [Target] [0] 69",
+    "Rating": "69",
+    "School": "LSU"
+  },
+  {
+    "Pos": "C",
+    "Style": "Pass Blocking",
+    "Player_Line": "C Damien Bower 6-3 282 R Nevada [Pass Blocking] [0] 68",
+    "Rating": "68",
+    "School": "Nevada"
+  },
+  {
+    "Pos": "C",
+    "Style": "Pass Blocking",
+    "Player_Line": "C Frederick Smallwood 6-4 261 R Tulsa [Pass Blocking] [0] 68",
+    "Rating": "68",
+    "School": "Tulsa"
+  },
+  {
+    "Pos": "C",
+    "Style": "Pass Blocking",
+    "Player_Line": "C Tyler Burton 6-4 273 R Duke [Pass Blocking] [-2/C] [#] 68",
+    "Rating": "68",
+    "School": "Duke"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Man Coverage",
+    "Player_Line": "CB Devon Bruce 6-0 187 R Missouri [Man Coverage] [0] 68",
+    "Rating": "68",
+    "School": "Missouri"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Man Coverage",
+    "Player_Line": "CB Jeremiah Christy 5-11 191 R Miami (OH) [Man Coverage] [0] 68",
+    "Rating": "68",
+    "School": "Miami (OH)"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB Justice Gay 6-0 203 R Texas [Zone Coverage] [0] 68",
+    "Rating": "68",
+    "School": "Texas"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB Kenneth Lindsey 5-11 197 R Miami (FL) [Zone Coverage] [-1] 68",
+    "Rating": "68",
+    "School": "Miami (FL)"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Man Coverage",
+    "Player_Line": "CB Kofi Dennis 6-0 162 R Washington [Man Coverage] [0] 68",
+    "Rating": "68",
+    "School": "Washington"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Man Coverage",
+    "Player_Line": "CB Mike Foreman 6-2 198 R SDSU [Man Coverage] [0] 68",
+    "Rating": "68",
+    "School": "SDSU"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Man Coverage",
+    "Player_Line": "CB Miles Bradford 5-9 171 R Western Michigan [Man Coverage] [0] 68",
+    "Rating": "68",
+    "School": "Western Michigan"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Man Coverage",
+    "Player_Line": "CB Nawkaw Rudd 5-9 171 R Arizona [Man Coverage] [-2] 68",
+    "Rating": "68",
+    "School": "Arizona"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Contain",
+    "Player_Line": "DE Andrew Bradley 6-0 261 R Navy [Contain] [-1] 68",
+    "Rating": "68",
+    "School": "Navy"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Contain",
+    "Player_Line": "DE Anthony Howell 6-3 244 R Illinois [Contain] [0] 68",
+    "Rating": "68",
+    "School": "Illinois"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Blitz",
+    "Player_Line": "DE Christian Gray 6-4 258 R Temple [Blitz] [0] 68",
+    "Rating": "68",
+    "School": "Temple"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Blitz",
+    "Player_Line": "DE Jamari Lloyd 6-1 250 R NC State [Blitz] [0] 68",
+    "Rating": "68",
+    "School": "NC State"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Contain",
+    "Player_Line": "DE Leonardo Trujillo 6-4 251 R Cincinnati [Contain] [0] 68",
+    "Rating": "68",
+    "School": "Cincinnati"
+  },
+  {
+    "Pos": "DT",
+    "Style": "1-Gap",
+    "Player_Line": "DT Lakopo Moli 6-1 286 R Oregon [1-Gap] [-1] 68",
+    "Rating": "68",
+    "School": "Oregon"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Lorenzo Croft 6-5 284 R Oklahoma [2-Gap] [-1] 68",
+    "Rating": "68",
+    "School": "Oklahoma"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Malachi Overton 6-7 329 R Washington State [2-Gap] [0] 68",
+    "Rating": "68",
+    "School": "Washington State"
+  },
+  {
+    "Pos": "DT",
+    "Style": "1-Gap",
+    "Player_Line": "DT Mason Hamlin 6-1 290 R UCF [1-Gap] [0] 68",
+    "Rating": "68",
+    "School": "UCF"
+  },
+  {
+    "Pos": "FB",
+    "Style": "Pass Blocking",
+    "Player_Line": "FB Brayden Starnes 5-9 201 R UTEP [Pass Blocking] [-2] 68",
+    "Rating": "68",
+    "School": "UTEP"
+  },
+  {
+    "Pos": "FB",
+    "Style": "Pass Blocking",
+    "Player_Line": "FB David Golden 5-9 215 R Louisiana Tech [Pass Blocking] [0] 68",
+    "Rating": "68",
+    "School": "Louisiana Tech"
+  },
+  {
+    "Pos": "FB",
+    "Style": "Run Blocking",
+    "Player_Line": "FB Isaac John 5-8 233 R Memphis [Run Blocking] [0] 68",
+    "Rating": "68",
+    "School": "Memphis"
+  },
+  {
+    "Pos": "FS",
+    "Style": "Zone Coverage",
+    "Player_Line": "FS Curtis Hunter 6-1 191 R Texas Tech [Zone Coverage] [-1] 68",
+    "Rating": "68",
+    "School": "Texas Tech"
+  },
+  {
+    "Pos": "FS",
+    "Style": "Man Coverage",
+    "Player_Line": "FS Gabriel Mallory 5-11 221 R Missouri [Man Coverage] [0] 68",
+    "Rating": "68",
+    "School": "Missouri"
+  },
+  {
+    "Pos": "FS",
+    "Style": "Man Coverage",
+    "Player_Line": "FS Shawn House 6-0 207 R UAB [Man Coverage] [0] 68",
+    "Rating": "68",
+    "School": "UAB"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB Cooper Siegel 6-1 241 R Army [Mike] [0/C] 68",
+    "Rating": "68",
+    "School": "Army"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB Julien Grubb 6-1 234 R Georgia State [Mike] [-1] 68",
+    "Rating": "68",
+    "School": "Georgia State"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB Kameron McClain 6-1 240 R LSU [Mike] [-2] 68",
+    "Rating": "68",
+    "School": "LSU"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB Micah English 6-3 233 R SDSU [Mike] [-2] 68",
+    "Rating": "68",
+    "School": "SDSU"
+  },
+  {
+    "Pos": "K",
+    "Style": "Accuracy",
+    "Player_Line": "K Cole Carlton 5-8 171 R Navy [Accuracy] [0] [#] 68",
+    "Rating": "68",
+    "School": "Navy"
+  },
+  {
+    "Pos": "K",
+    "Style": "Power",
+    "Player_Line": "K Victor Oliveira 6-0 185 R USC [Power] [0/C] 68",
+    "Rating": "68",
+    "School": "USC"
+  },
+  {
+    "Pos": "KR",
+    "Style": "Specialist",
+    "Player_Line": "KR Frank Strauss 6-0 216 R Ball State [Specialist] [0] 68",
+    "Rating": "68",
+    "School": "Ball State"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Traditional",
+    "Player_Line": "LS Brian Fairchild 6-1 274 R Oklahoma State [Traditional] [-1] 68",
+    "Rating": "68",
+    "School": "Oklahoma State"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Traditional",
+    "Player_Line": "LS Eli Metzger 6-2 254 R Temple [Traditional] [0] 68",
+    "Rating": "68",
+    "School": "Temple"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Specialized",
+    "Player_Line": "LS Filip Quigley 6-0 272 R Ole Miss [Specialized] [0] 68",
+    "Rating": "68",
+    "School": "Ole Miss"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Traditional",
+    "Player_Line": "LS Gregory Dubose 6-1 249 R Bowling Green [Traditional] [0] 68",
+    "Rating": "68",
+    "School": "Bowling Green"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Traditional",
+    "Player_Line": "LS Jadiel Negrete 6-3 254 R Louisville [Traditional] [0] [#] 68",
+    "Rating": "68",
+    "School": "Louisville"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Austyn Riggs 6-3 300 R Utah [Pass Blocking] [0] 68",
+    "Rating": "68",
+    "School": "Utah"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Elias Gardner 6-1 315 R South Carolina [Pass Blocking] [-1] 68",
+    "Rating": "68",
+    "School": "South Carolina"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Ethan Nixon 6-3 287 R Yale [Pass Blocking] [0] 68",
+    "Rating": "68",
+    "School": "Yale"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Jackson Worley 6-5 322 R Delaware [Run Blocking] [0] 68",
+    "Rating": "68",
+    "School": "Delaware"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Leyti Ashley 6-1 308 R Oklahoma [Pass Blocking] [0] 68",
+    "Rating": "68",
+    "School": "Oklahoma"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Pat McCartney 6-5 295 R Oklahoma State [Run Blocking] [-2] 68",
+    "Rating": "68",
+    "School": "Oklahoma State"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Phillip Brito 6-2 293 R South Dakota State [Run Blocking] [0] 68",
+    "Rating": "68",
+    "School": "South Dakota State"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Robert Culp 6-5 309 R Illinois State [Run Blocking] [0] 68",
+    "Rating": "68",
+    "School": "Illinois State"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Shane Glass 6-2 277 R UTSA [Run Blocking] [0] 68",
+    "Rating": "68",
+    "School": "UTSA"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Wymore Mott III 6-6 264 R Georgia [Pass Blocking] [0] 68",
+    "Rating": "68",
+    "School": "Georgia"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Blitz",
+    "Player_Line": "OLB Aboubacar Chester 6-4 233 R Boise State [Blitz] [-2] 68",
+    "Rating": "68",
+    "School": "Boise State"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Brian Jensen 6-1 217 R Auburn [Coverage] [+2] 68",
+    "Rating": "68",
+    "School": "Auburn"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Dennis Woody 6-2 221 R UCF [Coverage] [0] 68",
+    "Rating": "68",
+    "School": "UCF"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Blitz",
+    "Player_Line": "OLB Elias Altman 6-0 241 R NC State [Blitz] [-1] 68",
+    "Rating": "68",
+    "School": "NC State"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Gerald Corbin 5-9 218 R Texas State [Coverage] [-2] 68",
+    "Rating": "68",
+    "School": "Texas State"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Jermaine Perkins 6-2 234 R Michigan State [Coverage] [0] 68",
+    "Rating": "68",
+    "School": "Michigan State"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Rory Foote 6-4 223 R NC State [Coverage] [0] 68",
+    "Rating": "68",
+    "School": "NC State"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Samuel Goldman 6-3 228 R Arizona State [Coverage] [0] 68",
+    "Rating": "68",
+    "School": "Arizona State"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Colin Singer 6-2 331 R Syracuse [Run Blocking] [+1/C] 68",
+    "Rating": "68",
+    "School": "Syracuse"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT Edgar Cuellar 6-4 276 R Tennessee [Pass Blocking] [0] 68",
+    "Rating": "68",
+    "School": "Tennessee"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT Ivan Schultz 6-7 303 R Clemson [Pass Blocking] [0] 68",
+    "Rating": "68",
+    "School": "Clemson"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Julien Perrin 6-3 297 R Oklahoma [Run Blocking] [0] 68",
+    "Rating": "68",
+    "School": "Oklahoma"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Mason Lamb 6-2 258 R Hawaii [Run Blocking] [-1] 68",
+    "Rating": "68",
+    "School": "Hawaii"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT Maxim Kelly 6-5 278 R Kansas State [Pass Blocking] [0] [+] 68",
+    "Rating": "68",
+    "School": "Kansas State"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Oscar Garrido 6-2 271 R Florida [Run Blocking] [0] 68",
+    "Rating": "68",
+    "School": "Florida"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Pat Roland 6-2 313 R Purdue [Run Blocking] [+1] 68",
+    "Rating": "68",
+    "School": "Purdue"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Roberto Robledo 6-2 309 R Missouri [Run Blocking] [+1] 68",
+    "Rating": "68",
+    "School": "Missouri"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Sebastian Nash 6-2 265 R Temple [Run Blocking] [0] 68",
+    "Rating": "68",
+    "School": "Temple"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Hybrid",
+    "Player_Line": "QB Bradley Hassan 6-3 206 R Washington State [Hybrid] [0] 68",
+    "Rating": "68",
+    "School": "Washington State"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Scrambling",
+    "Player_Line": "QB Brian Andersen 6-5 194 R Maryland [Scrambling] [-1] 68",
+    "Rating": "68",
+    "School": "Maryland"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Pocket",
+    "Player_Line": "QB Ian Cannon 6-2 219 R Boise State [Pocket] [+1] 68",
+    "Rating": "68",
+    "School": "Boise State"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Pocket",
+    "Player_Line": "QB Jamel Woodson 6-1 224 R Louisiana-Monroe [Pocket] [0/C] 68",
+    "Rating": "68",
+    "School": "Louisiana-Monroe"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Pocket",
+    "Player_Line": "QB Kenbrell Street 6-6 203 R Minnesota [Pocket] [+1/C] 68",
+    "Rating": "68",
+    "School": "Minnesota"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Scrambling",
+    "Player_Line": "QB Rodrigo Casas 6-1 198 R James Madison [Scrambling] [-3] 68",
+    "Rating": "68",
+    "School": "James Madison"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Hybrid",
+    "Player_Line": "QB Savion Ross 6-5 193 R USF [Hybrid] [0/C] 68",
+    "Rating": "68",
+    "School": "USF"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Speed",
+    "Player_Line": "RB Ali Hoffmann 5-10 212 R North Texas [Speed] [0] 68",
+    "Rating": "68",
+    "School": "North Texas"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Power",
+    "Player_Line": "RB Bill Hoffman 6-0 217 R Boston College [Power] [0] 68",
+    "Rating": "68",
+    "School": "Boston College"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Power",
+    "Player_Line": "RB Bill Shirley 5-7 227 R Southern Miss [Power] [-1] 68",
+    "Rating": "68",
+    "School": "Southern Miss"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Speed",
+    "Player_Line": "RB Darius Sharpe 6-0 206 R New Mexico [Speed] [+2] 68",
+    "Rating": "68",
+    "School": "New Mexico"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Speed",
+    "Player_Line": "RB Johnny Hough 5-11 208 R Colorado [Speed] [-2] 68",
+    "Rating": "68",
+    "School": "Colorado"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Power",
+    "Player_Line": "RB Kamar Blackmon 6-1 229 R Indiana [Power] [0] 68",
+    "Rating": "68",
+    "School": "Indiana"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Speed",
+    "Player_Line": "RB Kofi Walls 5-10 180 R Washington [Speed] [0] 68",
+    "Rating": "68",
+    "School": "Washington"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Speed",
+    "Player_Line": "RB Lawrence Owens-Hodges 5-8 176 R Vanderbilt [Speed] [0] 68",
+    "Rating": "68",
+    "School": "Vanderbilt"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Speed",
+    "Player_Line": "RB Noah Wooten 5-6 197 R Florida State [Speed] [0] 68",
+    "Rating": "68",
+    "School": "Florida State"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Power",
+    "Player_Line": "RB Terrell Swain 5-11 222 R Illinois [Power] [-1] 68",
+    "Rating": "68",
+    "School": "Illinois"
+  },
+  {
+    "Pos": "SS",
+    "Style": "Man Coverage",
+    "Player_Line": "SS Andrew Snyder 5-10 202 R Boston College [Man Coverage] [+1] 68",
+    "Rating": "68",
+    "School": "Boston College"
+  },
+  {
+    "Pos": "SS",
+    "Style": "Man Coverage",
+    "Player_Line": "SS Brendan Helms 6-1 203 R Florida State [Man Coverage] [0] 68",
+    "Rating": "68",
+    "School": "Florida State"
+  },
+  {
+    "Pos": "SS",
+    "Style": "Zone Coverage",
+    "Player_Line": "SS Dillon Brinson 6-1 204 R Alabama [Zone Coverage] [-1] 68",
+    "Rating": "68",
+    "School": "Alabama"
+  },
+  {
+    "Pos": "SS",
+    "Style": "Man Coverage",
+    "Player_Line": "SS Paul Moore 5-11 172 R Liberty [Man Coverage] [-2] 68",
+    "Rating": "68",
+    "School": "Liberty"
+  },
+  {
+    "Pos": "SS",
+    "Style": "Zone Coverage",
+    "Player_Line": "SS Sawyer Krause 5-11 198 R Texas A&M [Zone Coverage] [0] 68",
+    "Rating": "68",
+    "School": "Texas A&M"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Blocking",
+    "Player_Line": "TE Cameron Graham 6-3 243 R San Jose State [Blocking] [0] 68",
+    "Rating": "68",
+    "School": "San Jose State"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Blocking",
+    "Player_Line": "TE Dontae Amos 6-1 243 R Nebraska [Blocking] [-1/C] 68",
+    "Rating": "68",
+    "School": "Nebraska"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Blocking",
+    "Player_Line": "TE Malosi Tanaumafili 6-3 239 R Western Kentucky [Blocking] [0] 68",
+    "Rating": "68",
+    "School": "Western Kentucky"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Receiving",
+    "Player_Line": "TE Timothy Spann 6-3 201 R Florida State [Receiving] [-1] 68",
+    "Rating": "68",
+    "School": "Florida State"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Receiving",
+    "Player_Line": "TE Tristan Rucker \ufeff6-2 198 R FAU [Receiving]\ufeff [0] [+] 68",
+    "Rating": "68",
+    "School": "FAU"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Adam Noel 6-1 171 R FAU [Speed] [+2] 68",
+    "Rating": "68",
+    "School": "FAU"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Angelo Lemus 6-5 224 R SMU [Target] [-1] 68",
+    "Rating": "68",
+    "School": "SMU"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Felix Leingarten 6-4 209 R Michigan [Target] [0] 68",
+    "Rating": "68",
+    "School": "Michigan"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Gabriel Moore 6-5 232 R Penn State [Target] [0] 68",
+    "Rating": "68",
+    "School": "Penn State"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Roman Byrne 5-9 174 R BYU [Speed] [0] [+] 68",
+    "Rating": "68",
+    "School": "BYU"
+  },
+  {
+    "Pos": "C",
+    "Style": "Pass Blocking",
+    "Player_Line": "C James Kaplan 6-2 302 R TCU [Pass Blocking] [0] 67",
+    "Rating": "67",
+    "School": "TCU"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Man Coverage",
+    "Player_Line": "CB Harry Conner 5-11 185 R West Virginia [Man Coverage] [0] 67",
+    "Rating": "67",
+    "School": "West Virginia"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB Jaiden Witherspoon 5-11 165 R Oklahoma [Zone Coverage] [-2] 67",
+    "Rating": "67",
+    "School": "Oklahoma"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Man Coverage",
+    "Player_Line": "CB Kevin Miles 6-1 171 R UTEP [Man Coverage] [0] 67",
+    "Rating": "67",
+    "School": "UTEP"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Man Coverage",
+    "Player_Line": "CB Mario Heard 5-10 192 R Oklahoma State [Man Coverage] [0] 67",
+    "Rating": "67",
+    "School": "Oklahoma State"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Man Coverage",
+    "Player_Line": "CB Sammy Schuler 5-10 191 R Kansas State [Man Coverage] [0] 67",
+    "Rating": "67",
+    "School": "Kansas State"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB Tristan Benjamin 6-2 180 R SDSU [Zone Coverage] [0] 67",
+    "Rating": "67",
+    "School": "SDSU"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB Vincent Britt 6-2 167 R Georgia Tech [Zone Coverage] [0] 67",
+    "Rating": "67",
+    "School": "Georgia Tech"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Contain",
+    "Player_Line": "DE Calvin Clay 6-1 264 R San Jose State [Contain] [+1/C] [#] 67",
+    "Rating": "67",
+    "School": "San Jose State"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Contain",
+    "Player_Line": "DE Harrison Call 6-6 247 R SMU [Contain] [0] 67",
+    "Rating": "67",
+    "School": "SMU"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Contain",
+    "Player_Line": "DE Omar Barner 6-3 243 R Georgia [Contain] [-1] 67",
+    "Rating": "67",
+    "School": "Georgia"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Blitz",
+    "Player_Line": "DE Roger Beltran 6-6 240 R LSU [Blitz] [0] 67",
+    "Rating": "67",
+    "School": "LSU"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Anquan Everett 6-7 290 R Indiana [2-Gap] [+2] 67",
+    "Rating": "67",
+    "School": "Indiana"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Eli Lalana 6-2 287 R UTSA [2-Gap] [0] 67",
+    "Rating": "67",
+    "School": "UTSA"
+  },
+  {
+    "Pos": "DT",
+    "Style": "1-Gap",
+    "Player_Line": "DT Griffin Martino 6-5 293 R Michigan State [1-Gap] [-1] 67",
+    "Rating": "67",
+    "School": "Michigan State"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Raphael Berman 6-6 323 R North Texas [2-Gap] [-1] 67",
+    "Rating": "67",
+    "School": "North Texas"
+  },
+  {
+    "Pos": "FS",
+    "Style": "Zone Coverage",
+    "Player_Line": "FS Harrison Fontaine 6-2 219 R Tennessee [Zone Coverage] [0] 67",
+    "Rating": "67",
+    "School": "Tennessee"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Will",
+    "Player_Line": "ILB Aiden Switzer 6-3 230 R Vanderbilt [Will] [-2] 67",
+    "Rating": "67",
+    "School": "Vanderbilt"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB Charlie Vazquez 6-1 262 R Maryland [Mike] [-2/C] 67",
+    "Rating": "67",
+    "School": "Maryland"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Will",
+    "Player_Line": "ILB Jeffrey Jennings 5-11 211 R UNLV [Will] [0] 67",
+    "Rating": "67",
+    "School": "UNLV"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Will",
+    "Player_Line": "ILB Leo Rincon 5-11 220 R Buffalo [Will] [0] 67",
+    "Rating": "67",
+    "School": "Buffalo"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Alexander Holman 6-7 290 R Baylor [Pass Blocking] [0/C] 67",
+    "Rating": "67",
+    "School": "Baylor"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Bennie Edwards 6-1 276 R Illinois State [Pass Blocking] [0] 67",
+    "Rating": "67",
+    "School": "Illinois State"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG William Jenkins 6-1 292 R Georgia Southern [Pass Blocking] [0] 67",
+    "Rating": "67",
+    "School": "Georgia Southern"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Blitz",
+    "Player_Line": "OLB Jefferson Ornelas 6-0 220 R USF [Blitz] [-2] 67",
+    "Rating": "67",
+    "School": "USF"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Coverage",
+    "Player_Line": "OLB Juan-Sebastian Abasto 6-4 233 R Michigan State [Coverage] [-1] 67",
+    "Rating": "67",
+    "School": "Michigan State"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Abe Porter 6-3 269 R New Hampshire [Run Blocking] [0] 67",
+    "Rating": "67",
+    "School": "New Hampshire"
+  },
+  {
+    "Pos": "P",
+    "Style": "Accuracy",
+    "Player_Line": "P Brian Leon 5-8 182 R Illinois State [Accuracy] [-2] 67",
+    "Rating": "67",
+    "School": "Illinois State"
+  },
+  {
+    "Pos": "PR",
+    "Style": "Specialist",
+    "Player_Line": "PR Rafael Anaya 6-4 226 R California [Specialist] [-1] 67",
+    "Rating": "67",
+    "School": "California"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Hybrid",
+    "Player_Line": "QB Alshon Simon-Alford 5-11 217 R Arizona State [Hybrid] [+2/C] 67",
+    "Rating": "67",
+    "School": "Arizona State"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Speed",
+    "Player_Line": "RB Isaiah Clinton 5-10 173 R Rutgers [Speed] [0] 67",
+    "Rating": "67",
+    "School": "Rutgers"
+  },
+  {
+    "Pos": "RB",
+    "Style": "Speed",
+    "Player_Line": "RB Maximillian Carmichael 5-11 180 R Charlotte [Speed] [-1] 67",
+    "Rating": "67",
+    "School": "Charlotte"
+  },
+  {
+    "Pos": "SS",
+    "Style": "Man Coverage",
+    "Player_Line": "SS Jonas Newberry 6-1 198 R Yale [Man Coverage] [0] 67",
+    "Rating": "67",
+    "School": "Yale"
+  },
+  {
+    "Pos": "SS",
+    "Style": "Man Cov\ufefferage",
+    "Player_Line": "SS Kayden Alaniz 5-11 218 R SDSU [Man Cov\ufefferage]\ufeff [0] 67",
+    "Rating": "67",
+    "School": "SDSU"
+  },
+  {
+    "Pos": "SS",
+    "Style": "Zone Coverage",
+    "Player_Line": "SS Lardarius McAfee 6-2 187 R Western Michigan [Zone Coverage] [0] 67",
+    "Rating": "67",
+    "School": "Western Michigan"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Abdul White 5-11 191 R Missouri [Speed] [-2] 67",
+    "Rating": "67",
+    "School": "Missouri"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Afasa Ponifasio 6-2 170 R Southern Miss [Speed] [0] 67",
+    "Rating": "67",
+    "School": "Southern Miss"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Carlos Landry 5-9 189 R Alabama [Speed] [+1/C] 67",
+    "Rating": "67",
+    "School": "Alabama"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Jeremy Tinsley 6-1 171 R Tennessee [Speed] [0] 67",
+    "Rating": "67",
+    "School": "Tennessee"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Lawrence Stallings 6-1 172 R Minnesota [Speed] [0] 67",
+    "Rating": "67",
+    "School": "Minnesota"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Leon Snodgrass 5-9 185 R Maryland [Speed] [0] 67",
+    "Rating": "67",
+    "School": "Maryland"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Maxwell Rider 6-2 178 R Northern Illinois [Speed] [-1] 67",
+    "Rating": "67",
+    "School": "Northern Illinois"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB Abdoul Beasley 6-2 191 R New Mexico [Zone Coverage] [0] 66",
+    "Rating": "66",
+    "School": "New Mexico"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Man Coverage",
+    "Player_Line": "CB Cooper Rainey 5-10 203 R Ohio [Man Coverage] [-1] 66",
+    "Rating": "66",
+    "School": "Ohio"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB Damani Driver 5-10 178 R Stanford [Zone Coverage] [0] 66",
+    "Rating": "66",
+    "School": "Stanford"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Man Coverage",
+    "Player_Line": "CB Donovan Gipson 6-2 165 R North Texas [Man Coverage] [0] 66",
+    "Rating": "66",
+    "School": "North Texas"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Zone Coverage",
+    "Player_Line": "CB Vincent Perkins 6-2 175 R Baylor [Zone Coverage] [-1] 66",
+    "Rating": "66",
+    "School": "Baylor"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Blitz",
+    "Player_Line": "DE Elvis Cornejo 6-6 257 R West Virginia [Blitz] [0] 66",
+    "Rating": "66",
+    "School": "West Virginia"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Blitz",
+    "Player_Line": "DE Luke Butte 6-7 251 R SMU [Blitz] [+1] 66",
+    "Rating": "66",
+    "School": "SMU"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Blitz",
+    "Player_Line": "DE Zac Huntley 6-4 256 R Texas Tech [Blitz] [0] 66",
+    "Rating": "66",
+    "School": "Texas Tech"
+  },
+  {
+    "Pos": "DT",
+    "Style": "1-Gap",
+    "Player_Line": "DT Kyle Meadows 6-5 316 R UTEP [1-Gap] [0] 66",
+    "Rating": "66",
+    "School": "UTEP"
+  },
+  {
+    "Pos": "DT",
+    "Style": "1-Gap",
+    "Player_Line": "DT Tony Babb 6-0 287 R Ole Miss [1-Gap] [0] 66",
+    "Rating": "66",
+    "School": "Ole Miss"
+  },
+  {
+    "Pos": "FB",
+    "Style": "Run Blocking",
+    "Player_Line": "FB Liam Bearden 5-10 222 R SDSU [Run Blocking] [0] 66",
+    "Rating": "66",
+    "School": "SDSU"
+  },
+  {
+    "Pos": "FS",
+    "Style": "Man Coverage",
+    "Player_Line": "FS Avery Gilmore 6-1 212 R Utah [Man Coverage] [0] 66",
+    "Rating": "66",
+    "School": "Utah"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Will",
+    "Player_Line": "ILB Ian Johnson 6-1 210 R Iowa State [Will] [0] 66",
+    "Rating": "66",
+    "School": "Iowa State"
+  },
+  {
+    "Pos": "ILB",
+    "Style": "Mike",
+    "Player_Line": "ILB Milo Jewell 6-2 252 R Colorado State [Mike] [0] 66",
+    "Rating": "66",
+    "School": "Colorado State"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Traditional",
+    "Player_Line": "LS Jon Knott 6-1 230 R Texas A&M [Traditional] [0] 66",
+    "Rating": "66",
+    "School": "Texas A&M"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Brady Romano 6-5 336 R UCLA [Run Blocking] [0] 66",
+    "Rating": "66",
+    "School": "UCLA"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Florian Milanovic 6-5 252 R Pittsburgh [Pass Blocking] [0] 66",
+    "Rating": "66",
+    "School": "Pittsburgh"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Jared Cornejo 6-3 283 R Western Kentucky [Pass Blocking] [0] 66",
+    "Rating": "66",
+    "School": "Western Kentucky"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Tyler Roche 6-4 334 R Clemson [Run Blocking] [0] 66",
+    "Rating": "66",
+    "School": "Clemson"
+  },
+  {
+    "Pos": "OLB",
+    "Style": "Blitz",
+    "Player_Line": "OLB Leon Hickman 5-11 220 R Hawaii [Blitz] [-2] 66",
+    "Rating": "66",
+    "School": "Hawaii"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Eli Eubanks 6-2 292 R Air Force [Run Blocking] [0/C] 66",
+    "Rating": "66",
+    "School": "Air Force"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT James Stark 6-5 261 R Iowa [Pass Blocking] [0] 66",
+    "Rating": "66",
+    "School": "Iowa"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT Marshal Inman 6-6 314 R SDSU [Pass Blocking] [0] 66",
+    "Rating": "66",
+    "School": "SDSU"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Maxim Sample 6-2 261 R Alabama [Run Blocking] [0] 66",
+    "Rating": "66",
+    "School": "Alabama"
+  },
+  {
+    "Pos": "P",
+    "Style": "Power",
+    "Player_Line": "P Angelo McCollum 5-7 179 R Auburn [Power] [0] 66",
+    "Rating": "66",
+    "School": "Auburn"
+  },
+  {
+    "Pos": "P",
+    "Style": "Accuracy",
+    "Player_Line": "P Griffin Linn 6-3 170 R Army [Accuracy] [0] 66",
+    "Rating": "66",
+    "School": "Army"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Pocket",
+    "Player_Line": "QB Charles Palmer 6-0 225 R Tulsa [Pocket] [0] 66",
+    "Rating": "66",
+    "School": "Tulsa"
+  },
+  {
+    "Pos": "QB",
+    "Style": "Scrambling",
+    "Player_Line": "QB Elias Noble 6-5 214 R North Texas [Scrambling] [+1/C] 66",
+    "Rating": "66",
+    "School": "North Texas"
+  },
+  {
+    "Pos": "SS",
+    "Style": "Man Coverage",
+    "Player_Line": "SS Kyle Gamble 5-10 208 R Pittsburgh [Man Coverage] [0] 66",
+    "Rating": "66",
+    "School": "Pittsburgh"
+  },
+  {
+    "Pos": "SS",
+    "Style": "Zone Coverage",
+    "Player_Line": "SS Zac Hudson 6-0 194 R Tennessee [Zone Coverage] [0] 66",
+    "Rating": "66",
+    "School": "Tennessee"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Blocking",
+    "Player_Line": "TE Dominick Staples 6-0 231 R Georgia [Blocking] [0] 66",
+    "Rating": "66",
+    "School": "Georgia"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Receiving",
+    "Player_Line": "TE Jean Guzman 6-5 191 R Cincinnati [Receiving] [0] 66",
+    "Rating": "66",
+    "School": "Cincinnati"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Blocking",
+    "Player_Line": "TE Marquise Rolle 6-3 228 R Baylor [Blocking] [0] 66",
+    "Rating": "66",
+    "School": "Baylor"
+  },
+  {
+    "Pos": "TE",
+    "Style": "Receiving",
+    "Player_Line": "TE Stephen Hall 6-5 203 R Michigan State [Receiving] [0] 66",
+    "Rating": "66",
+    "School": "Michigan State"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Dean Stinson 6-4 152 R Duke [Speed] [-2] 66",
+    "Rating": "66",
+    "School": "Duke"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Dillon Little 6-3 156 R Minnesota [Speed] [0] 66",
+    "Rating": "66",
+    "School": "Minnesota"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Target",
+    "Player_Line": "WR Joseph Aikman 6-5 227 R Central Michigan [Target] [0] 66",
+    "Rating": "66",
+    "School": "Central Michigan"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Lawrence Strange 5-9 176 R Troy [Speed] [-2] 66",
+    "Rating": "66",
+    "School": "Troy"
+  },
+  {
+    "Pos": "C",
+    "Style": "Run Blocking",
+    "Player_Line": "C Brady Faulkner 6-1 270 R North Texas [Run Blocking] [0] 65",
+    "Rating": "65",
+    "School": "North Texas"
+  },
+  {
+    "Pos": "CB",
+    "Style": "Man Coverage",
+    "Player_Line": "CB Kofi Pope 6-1 200 R North Texas [Man Coverage] [0] 65",
+    "Rating": "65",
+    "School": "North Texas"
+  },
+  {
+    "Pos": "DE",
+    "Style": "Contain",
+    "Player_Line": "DE Rafael Andrade 6-2 243 R Clemson [Contain] [0] 65",
+    "Rating": "65",
+    "School": "Clemson"
+  },
+  {
+    "Pos": "DT",
+    "Style": "2-Gap",
+    "Player_Line": "DT Justice Mabry 6-4 298 R Baylor [2-Gap] [0] 65",
+    "Rating": "65",
+    "School": "Baylor"
+  },
+  {
+    "Pos": "DT",
+    "Style": "1-Gap",
+    "Player_Line": "DT Nigel Ivey 6-0 305 R UCLA [1-Gap] [0] 65",
+    "Rating": "65",
+    "School": "UCLA"
+  },
+  {
+    "Pos": "FB",
+    "Style": "Run Blocking",
+    "Player_Line": "FB Nicholas Meredith 5-8 257 R Central Michigan [Run Blocking] [0] 65",
+    "Rating": "65",
+    "School": "Central Michigan"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Specialized",
+    "Player_Line": "LS Hayden Watts 6-1 235 R Indiana [Specialized] [0] 65",
+    "Rating": "65",
+    "School": "Indiana"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Traditional",
+    "Player_Line": "LS Oscar Grogan 6-1 249 R Oklahoma [Traditional] [0] 65",
+    "Rating": "65",
+    "School": "Oklahoma"
+  },
+  {
+    "Pos": "LS",
+    "Style": "Specialized",
+    "Player_Line": "LS Yahir Muniz 6-1 272 R South Alabama [Specialized] [0] 65",
+    "Rating": "65",
+    "School": "South Alabama"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Antwon Whiting 6-2 296 R Florida State [Run Blocking] [+1] 65",
+    "Rating": "65",
+    "School": "Florida State"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Bryce Lloyd 6-2 323 R Missouri [Run Blocking] [0] 65",
+    "Rating": "65",
+    "School": "Missouri"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Pass Blocking",
+    "Player_Line": "OG Dillon Mooney 6-6 322 R NC State [Pass Blocking] [-1] 65",
+    "Rating": "65",
+    "School": "NC State"
+  },
+  {
+    "Pos": "OG",
+    "Style": "Run Blocking",
+    "Player_Line": "OG Jaden Aleman 6-2 270 R UNLV [Run Blocking] [0] 65",
+    "Rating": "65",
+    "School": "UNLV"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT Bart Abel 6-3 273 R Penn State [Pass Blocking] [0] 65",
+    "Rating": "65",
+    "School": "Penn State"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT Derek Satterfield 6-3 330 R Ohio [Pass Blocking] [0] [+] 65",
+    "Rating": "65",
+    "School": "Ohio"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Jeremy McCabe 6-1 299 R Rutgers [Run Blocking] [-1] 65",
+    "Rating": "65",
+    "School": "Rutgers"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Run Blocking",
+    "Player_Line": "OT Joe Blevins 6-7 281 R Minnesota [Run Blocking] [0] [#] 65",
+    "Rating": "65",
+    "School": "Minnesota"
+  },
+  {
+    "Pos": "OT",
+    "Style": "Pass Blocking",
+    "Player_Line": "OT William Dewitt 6-7 320 R Mississippi State [Pass Blocking] [0] 65",
+    "Rating": "65",
+    "School": "Mississippi State"
+  },
+  {
+    "Pos": "P",
+    "Style": "Accuracy",
+    "Player_Line": "P Maxim McPherson 5-10 178 R Alabama [Accuracy] [0] 65",
+    "Rating": "65",
+    "School": "Alabama"
+  },
+  {
+    "Pos": "P",
+    "Style": "Accuracy",
+    "Player_Line": "P Pete Hutchison 6-1 168 R NC State [Accuracy] [0] 65",
+    "Rating": "65",
+    "School": "NC State"
+  },
+  {
+    "Pos": "WR",
+    "Style": "Speed",
+    "Player_Line": "WR Charles Kemp 5-9 175 R Washington [Speed] [0] 65",
+    "Rating": "65",
+    "School": "Washington"
+  }
+]

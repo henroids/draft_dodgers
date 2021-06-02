@@ -3,10 +3,12 @@ const router = express.Router();
 const request = require('request');
 const config = require('request');
 const auth = require('../../middleware/auth');
-const { check, validationResult, body } = require('express-validator')
+const { check, validationResult, body } = require('express-validator');
+const fs = require('fs');
 
-const Profile = require('../../models/Profile')
+const Profile = require('../../models/Profile');
 const User = require('../../models/User');
+const Player = require('../../models/Player');
 
 // @route    get api/profile/me
 // @desc     get current users profile
@@ -358,14 +360,18 @@ router.get('/github/:username', (req, res) => {
 // @desc     testing player
 // @access   public
 
-router.get('/player', async (req, res) => {
+router.get('/player', async (res) => {
   try {
-    const player = await Player.create({ name: 'Patrick Bateman' });
-    if(!player) {
-      return res.status(400).json({ msg: 'Error creating player' });
-    }
-    res.json({msg: 'Successful Player Creation'})
-  } catch (err) {
+    console.log(__dirname); 
+    fs.readFile(__dirname + '/draft.json', (err,data)=> { 
+                  // console.log(data); 
+                  const player = Player.create(JSON.parse(data)); 
+                  if(!player) { 
+                    return res.status(400).json({ msg: 'Error creating player' });
+                  }
+                  // res.json({msg: 'Successful Player Creation'});
+    })
+  } catch (err) { 
     console.error(err.message);
     if(err.kind == 'ObjectId') {
       return res.status(400).json({ msg: 'Error creating player'});
@@ -375,4 +381,4 @@ router.get('/player', async (req, res) => {
   }
 });
 
-module.exports = router;
+module.exports = router; 
