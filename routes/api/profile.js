@@ -39,8 +39,8 @@ router.post(
   [
     auth,
     [
-      check('status', 'Status is required').not().isEmpty(),
-      check('skills', 'Skills are required').not().isEmpty(),
+      check('status', 'Pick your NFL team').not().isEmpty(),
+      // check('skills', 'Skills are required').not().isEmpty(),
     ],
   ],
   async (req, res) => {
@@ -307,7 +307,7 @@ router.delete('/education/:edu_id', auth, async (req, res) => {
 
 // @route    get api/profile/github/:username
 // @desc     get user repos from github
-// @access   puyblic
+// @access   public
 
 router.get('/github/:username', (req, res) => {
   try {
